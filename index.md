@@ -10,44 +10,38 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Summary:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Qualified Mechanical Engineer with a distinct knowledge of mechanical engineering, having a strong passion for programming and AI. Over 4 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in Solidworks, AutoCAD(3D&2D) and programming languages such as Python.
 
-## Header 2
+* * *
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Education:
 
-### Header 3
+> Tribhuvan University, Institute of Engineering (IOE)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* * *
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# Languages skills:
 
-#### Header 4
+*   English
+*   Japanese
+*   Nepali
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* * *
 
-##### Header 5
+# Certificates:
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Certificate for Registered Engineers, Nepal Engineering Council
+2.  Mechanical Design, Solidworks
+3.  Crash Course on Python, Google
+4.  Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
+5.  Introduction to Artificial Intelligence (AI), IBM
+6.  Programming for Everybody (Getting Started with Python), University of Michigan
+7.  The Smithsonian Entrepreneur Incubator Course, US Embassy, Nepal
+8.  Engineering and Product Design Processes, Arizona State University
+
+* * *
 
 ###### Header 6
 
