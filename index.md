@@ -6,7 +6,7 @@ Qualified Mechanical Engineer with a distinct knowledge of mechanical engineerin
 
 # **Education:**
 
-> Tribhuvan University, Institute of Engineering (IOE)
+Tribhuvan University, Institute of Engineering (IOE)
 
 * * *
 
@@ -20,14 +20,14 @@ Qualified Mechanical Engineer with a distinct knowledge of mechanical engineerin
 
 # **Certificates:**
 
-1.  Certificate for Registered Engineers, Nepal Engineering Council
-2.  Mechanical Design, Solidworks
-3.  Crash Course on Python, Google
-4.  Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
-5.  Introduction to Artificial Intelligence (AI), IBM
-6.  Programming for Everybody (Getting Started with Python), University of Michigan
-7.  The Smithsonian Entrepreneur Incubator Course, US Embassy, Nepal
-8.  Engineering and Product Design Processes, Arizona State University
+*   Certificate for Registered Engineers, Nepal Engineering Council
+*   Mechanical Design, Solidworks
+*   Crash Course on Python, Google
+*   Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
+*   Introduction to Artificial Intelligence (AI), IBM
+*   Programming for Everybody (Getting Started with Python), University of Michigan
+*   The Smithsonian Entrepreneur Incubator Course, US Embassy, Nepal
+*   Engineering and Product Design Processes, Arizona State University
 
 * * *
 
