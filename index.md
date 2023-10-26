@@ -1,16 +1,37 @@
-# **Summary:**
+## **Summary:**
 
 Qualified Mechanical Engineer with a distinct knowledge of mechanical engineering, having a strong passion for programming and AI. Over 4 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in Solidworks, AutoCAD(3D&2D) and programming languages such as Python.
 
 * * *
 
-# **Education:**
+## **Education:**
 
 Tribhuvan University, Institute of Engineering (IOE)
 
 * * *
 
-# **Languages skills:**
+## **Work Experience:**
+
+*  Mechanical Engineer/Technical Support Engineer-Tokyo
+*  Mechanical Engineer-TATA MOTORS, Nepal
+*  PEPSICO Nepal 
+
+* * *
+
+## **Selective Skills**
+
+•  Python Programming Proficiency
+•  Proficiency in C Programming, HTML,CSS 
+•  Machine Design and Development Skills 
+•  SolidWorks, CATIA and AutoCAD(2D&3D) Software Proficiency
+•  Microsoft Word, Excel, and PowerPoint Proficiency
+•  Technical Report Writing Skills
+•  Critical Thinking and Creative Skills
+•  Time Management Skills
+
+* * *
+
+## **Languages skills:**
 
 *   English
 *   Japanese
@@ -18,7 +39,7 @@ Tribhuvan University, Institute of Engineering (IOE)
 
 * * *
 
-# **Certificates:**
+## **Certificates:**
 
 *   Certificate for Registered Engineers, Nepal Engineering Council
 *   Mechanical Design, Solidworks
