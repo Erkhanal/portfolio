@@ -13,14 +13,14 @@ Tribhuvan University, Institute of Engineering (IOE)
 ## **Work Experience:**
 
 *  Mechanical Engineer/Technical Support Engineer-Tokyo
-*  Mechanical Engineer-TATA MOTORS, Nepal
-*  PEPSICO Nepal 
+*  Mechanical Engineer-TATA MOTORS
+*  PEPSICO  
 
 * * *
 
 ## **Selective Skills**
 
-•  Python Programming Proficiency
+Python Programming Proficiency
 •  Proficiency in C Programming, HTML,CSS 
 •  Machine Design and Development Skills 
 •  SolidWorks, CATIA and AutoCAD(2D&3D) Software Proficiency
@@ -35,7 +35,6 @@ Tribhuvan University, Institute of Engineering (IOE)
 
 *   English
 *   Japanese
-*   Nepali
 
 * * *
 
@@ -54,5 +53,5 @@ Tribhuvan University, Institute of Engineering (IOE)
 
 ![pic](https://github.com/Erkhanal/portfolio/assets/148779208/1613f1a7-22fe-47c5-ae54-1aa7f4d15fa4)
 
-### __Thank you for visiting__
+#### --Thank you for visiting--
 
