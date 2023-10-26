@@ -52,9 +52,7 @@ Tribhuvan University, Institute of Engineering (IOE)
 
 * * *
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![pic](https://github.com/Erkhanal/portfolio/assets/148779208/1613f1a7-22fe-47c5-ae54-1aa7f4d15fa4)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### __Thank you for visiting__
 
