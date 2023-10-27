@@ -1,6 +1,11 @@
-title: Shishir Khanal
+title: <p align="center"> Shishir Khanal, style="color:red;"</p>
 logo: /assets/img/think_about_code.jpg
-description: Design(2D/3D),Simulation,Analysis & Additive Manufacturing (Industrial Robot/Mechanical Device & Production Automation Research and Development) Engineer at Japan,Tokyo
+description: <p align="center">
+  <a href="https://jp.linkedin.com/in/er-shishir-khanal-26b125139/">LinkedIn</a>
+  <br> 
+  Design(2D/3D),Simulation,Analysis & Additive Manufacturing (Industrial Robot/Mechanical Device & Production Automation Research and Development) Engineer at Japan,Tokyo 
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
