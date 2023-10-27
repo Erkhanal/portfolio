@@ -7,11 +7,11 @@ title: Shishir Khanal
     background-color: white;
     color: #000000; /* Dark Black */
     text-align: justify;
-    animation: backgroundColorChange 10s linear infinite alternate;
+    animation: backgroundColorChange 15s linear infinite alternate;
   }
 
   @keyframes backgroundColorChange {
-    0% {
+    10% {
       background-color: white;
     }
     50% {
