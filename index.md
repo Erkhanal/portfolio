@@ -55,16 +55,16 @@ Tribhuvan University, Institute of Engineering (IOE)
 
 ## <span class="animated-text">**Work Experience:**</span>
 
-*  Mechanical Engineer/Technical Support Engineer-Tokyo
-*  Mechanical Engineer-TATA MOTORS
-*  PEPSICO  
+*  Mechanical Engineer-TOKYO
+*  Service Engineer-TATA MOTORS
+*  Technical Support Engineer-PEPSICO
 
 * * *
 
 ## <span class="animated-text">**Selective Skills:**</span>
 
 Python Programming Proficiency
-•  Proficiency in C Programming, HTML,CSS 
+•  Proficiency in Data Science, Machine Learning and Artificial Intelligence (AI)
 •  Machine Design and Development Skills 
 •  SolidWorks, CATIA and AutoCAD(2D&3D) Software Proficiency
 •  Microsoft Word, Excel, and PowerPoint Proficiency
@@ -85,13 +85,13 @@ Python Programming Proficiency
 
 ## <span class="animated-text">**Certificates:**</span>
 
-*   Certificate for Registered Engineers, Nepal Engineering Council
+*   Certificate for Registered Engineers
 *   Mechanical Design, Solidworks
 *   Crash Course on Python, Google
 *   Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
 *   Introduction to Artificial Intelligence (AI), IBM
 *   Programming for Everybody (Getting Started with Python), University of Michigan
-*   The Smithsonian Entrepreneur Incubator Course, US Embassy, Nepal
+*   The Smithsonian Entrepreneur Incubator Course, US Embassy
 *   Engineering and Product Design Processes, Arizona State University
 
 * * *
