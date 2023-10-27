@@ -1,5 +1,5 @@
 ---
-title: Shishir Khanal
+title: Your Page Title
 ---
 
 <style>
@@ -7,12 +7,25 @@ title: Shishir Khanal
     background-color: white;
     color: #000000; /* Dark Black */
   }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .animated-text {
+    animation: fadeIn 2s ease;
+  }
 </style>
 
 ## **Summary:**
 
 Qualified Mechanical Engineer with a distinct knowledge of mechanical engineering, having a strong passion for programming and AI. Over 4 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in Solidworks, AutoCAD(3D&2D) and programming languages such as Python.
-
+<span class="animated-text">This text fades in with animation.</span>
 * * *
 
 ## **Education:**
