@@ -17,7 +17,7 @@ title: Shishir Khanal
     100% {
       opacity: 1;
       transform: scale(1);
-       color: green;
+      color: green;
     }
   }
 
@@ -25,10 +25,9 @@ title: Shishir Khanal
     animation: fadeInScale 3s ease;
   }
 
-    .centered-blue {
+  .centered-blue {
     text-align: center;
     color: blue;
-    background-color: yellow;
   }
 </style>
 
