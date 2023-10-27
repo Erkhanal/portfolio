@@ -30,8 +30,6 @@ title: Shishir Khanal
     color: blue;
   }
 </style>
-  }
-</style>
 
 ## <span class="animated-text">**Summary:**</span>
 
