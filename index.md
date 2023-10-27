@@ -1,5 +1,5 @@
 ---
-title: Your Page Title
+title: Shishir Khanal
 ---
 
 <style>
@@ -8,32 +8,36 @@ title: Your Page Title
     color: #000000; /* Dark Black */
   }
 
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
+  @keyframes colorChange {
+    0% {
+      color: blue;
     }
-    to {
-      opacity: 1;
+    50% {
+      color: red;
+    }
+    100% {
+      color: blue;
     }
   }
 
   .animated-text {
-    animation: fadeIn 2s ease;
+    animation: colorChange 4s linear infinite;
   }
 </style>
 
-## **Summary:**
+## <span class="animated-text">**Summary:**</span>
 
-<span class="animated-text">Qualified Mechanical Engineer with a distinct knowledge of mechanical engineering, having a strong passion for programming and AI. Over 4 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in Solidworks, AutoCAD(3D&2D) and programming languages such as Python.</span>
+Qualified Mechanical Engineer with a distinct knowledge of mechanical engineering, having a strong passion for programming and AI. Over 4 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in Solidworks, AutoCAD(3D&2D) and programming languages such as Python.
+
 * * *
 
-## **Education:**
+## <span class="animated-text">**Education:**</span>
 
 Tribhuvan University, Institute of Engineering (IOE)
 
 * * *
 
-## **Work Experience:**
+## <span class="animated-text">**Work Experience:**</span>
 
 *  Mechanical Engineer/Technical Support Engineer-Tokyo
 *  Mechanical Engineer-TATA MOTORS
@@ -41,7 +45,7 @@ Tribhuvan University, Institute of Engineering (IOE)
 
 * * *
 
-## **Selective Skills:**
+## <span class="animated-text">**Selective Skills:**</span>
 
 Python Programming Proficiency
 •  Proficiency in C Programming, HTML,CSS 
@@ -54,14 +58,14 @@ Python Programming Proficiency
 
 * * *
 
-## **Languages skills:**
+## <span class="animated-text">**Languages skills:**</span>
 
 *   English
 *   Japanese
 
 * * *
 
-## **Certificates:**
+## <span class="animated-text">**Certificates:**</span>
 
 *   Certificate for Registered Engineers, Nepal Engineering Council
 *   Mechanical Design, Solidworks
@@ -76,7 +80,7 @@ Python Programming Proficiency
 
 ![pic](https://github.com/Erkhanal/portfolio/assets/148779208/1613f1a7-22fe-47c5-ae54-1aa7f4d15fa4)
 
-## **Project:**
+## <span class="animated-text">**Project:**</span>
 
 ### **Design and Development of magnetic bicycle:**
 The conversion of magnetic power into mechanical energy is the prime subject of study for the researcher. The project on magnetic powered hybrid bicycle is focused on the investigation of the feasibility of the mechanical energy from the magnet which use its natural properties of attraction and repulsion of the magnet poles to create rotation of the shaft which can be harnessed to do a useful work.
