@@ -123,7 +123,6 @@ The performance of the bicycle was found to be increased significantly after imp
 ![Picture13](https://github.com/Erkhanal/portfolio/assets/148779208/58ab3f93-1090-425c-8d3a-d8df8617d31c)
 
 * * *
-* * *
 
 #### <span class="centered-blue animated-text">--Thank you for visiting--</span>
 
