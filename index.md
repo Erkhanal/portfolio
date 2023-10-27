@@ -1,5 +1,5 @@
 ---
-title: **Summary:**
+title: Summary:
 ---
 
 <style>
