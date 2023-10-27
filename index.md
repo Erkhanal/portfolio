@@ -17,6 +17,7 @@ title: Shishir Khanal
     100% {
       opacity: 1;
       transform: scale(1);
+       color: red;
     }
   }
 
