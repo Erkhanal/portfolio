@@ -17,17 +17,18 @@ title: Shishir Khanal
     100% {
       opacity: 1;
       transform: scale(1);
-       color: red;
+       color: green;
     }
   }
 
   .animated-text {
-    animation: fadeInScale 1.5s ease;
+    animation: fadeInScale 3s ease;
   }
 
     .centered-blue {
     text-align: center;
     color: blue;
+    background-color: yellow;
   }
 </style>
 
