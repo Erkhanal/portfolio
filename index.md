@@ -1,3 +1,13 @@
+---
+title: **Summary:**
+---
+
+<style>
+  body {
+    background-color: lightblue;
+  }
+</style>
+
 ## **Summary:**
 
 Qualified Mechanical Engineer with a distinct knowledge of mechanical engineering, having a strong passion for programming and AI. Over 4 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in Solidworks, AutoCAD(3D&2D) and programming languages such as Python.
