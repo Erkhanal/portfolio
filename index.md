@@ -1,11 +1,12 @@
 ---
-title: Your Page Title
+title: Shishir Khanal
 ---
 
 <style>
   body {
     background-color: white;
     color: #000000; /* Dark Black */
+    text-align: justify;
   }
 
   @keyframes fadeInScale {
@@ -23,79 +24,6 @@ title: Your Page Title
     animation: fadeInScale 1.5s ease;
   }
 </style>
-
-## **Summary:**
-
-Qualified Mechanical Engineer with a distinct knowledge of mechanical engineering, having a strong passion for programming and AI. Over 4 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in Solidworks, AutoCAD (3D & 2D), and programming languages such as Python.
-
-<span class="animated-text">This text elegantly fades in and scales up.</span>
-
-* * *
-In this code:
-
-I've defined a CSS animation called fadeInScale that smoothly fades in and scales up the text from a smaller size to its full size.
-
-The <span> element with the class animated-text is targeted for this animation.
-
-This example will make the "This text elegantly fades in and scales up" text fade in while gently scaling up, creating a more beautiful and elegant animation effect. You can further adjust the animation duration, timing function, and other properties to achieve your desired aesthetic.
-
-
-
-
-User
-make animation with blue and red color
-ChatGPT
-To create an animation with blue and red color for your text, you can use CSS animations with keyframes to transition between colors. Here's an example of a simple color-changing animation:
-
-markdown
-Copy code
----
-title: Your Page Title
----
-
-<style>
-  body {
-    background-color: white;
-    color: #000000; /* Dark Black */
-  }
-
-  @keyframes colorChange {
-    0% {
-      color: blue;
-    }
-    50% {
-      color: red;
-    }
-    100% {
-      color: blue;
-    }
-  }
-
-  .animated-text {
-    animation: colorChange 4s linear infinite;
-  }
-</style>
-
-## **Summary:**
-
-Qualified Mechanical Engineer with a distinct knowledge of mechanical engineering, having a strong passion for programming and AI. Over 4 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in Solidworks, AutoCAD (3D & 2D), and programming languages such as Python.
-
-<span class="animated-text">This text changes color from blue to red.</span>
-
-* * *
-In this code:
-
-I've created a CSS animation named colorChange that transitions the color of the text from blue to red and back to blue.
-
-The <span> element with the class animated-text is targeted for this animation.
-
-This example will make the text inside the <span> element change color from blue to red and back to blue in a continuous loop. You can adjust the animation duration and colors as needed to achieve the desired effect.
-
-
-
-
-
-
 
 ## <span class="animated-text">**Summary:**</span>
 
