@@ -81,7 +81,8 @@ Python Programming Proficiency
 
 ![pic](https://github.com/Erkhanal/portfolio/assets/148779208/1613f1a7-22fe-47c5-ae54-1aa7f4d15fa4)
 
-## <span class="animated-text">**Project:**</span>
+## <span class="animated-text">**Project 1:**</span>
+* * *
 
 ### **Design and Development of magnetic bicycle:**
 The conversion of magnetic power into mechanical energy is the prime subject of study for the researcher. The project on magnetic powered hybrid bicycle is focused on the investigation of the feasibility of the mechanical energy from the magnet which use its natural properties of attraction and repulsion of the magnet poles to create rotation of the shaft which can be harnessed to do a useful work.
