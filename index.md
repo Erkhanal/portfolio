@@ -72,6 +72,8 @@ Python Programming Proficiency
 •  Critical Thinking and Creative Skills
 •  Time Management Skills
 
+![pic](https://github.com/Erkhanal/portfolio/assets/148779208/1613f1a7-22fe-47c5-ae54-1aa7f4d15fa4)
+
 * * *
 
 ## <span class="animated-text">**Languages skills:**</span>
@@ -91,10 +93,6 @@ Python Programming Proficiency
 *   Programming for Everybody (Getting Started with Python), University of Michigan
 *   The Smithsonian Entrepreneur Incubator Course, US Embassy, Nepal
 *   Engineering and Product Design Processes, Arizona State University
-
-* * *
-
-![pic](https://github.com/Erkhanal/portfolio/assets/148779208/1613f1a7-22fe-47c5-ae54-1aa7f4d15fa4)
 
 * * *
 ## <span class="animated-text">**Project 1:**</span>
@@ -118,6 +116,7 @@ The performance of the bicycle was found to be increased significantly after imp
 
 ![Picture13](https://github.com/Erkhanal/portfolio/assets/148779208/58ab3f93-1090-425c-8d3a-d8df8617d31c)
 
+* * *
 * * *
 
 #### <span class="centered-blue animated-text">--Thank you for visiting--</span>
