@@ -24,6 +24,13 @@ title: Shishir Khanal
   .animated-text {
     animation: fadeInScale 1.5s ease;
   }
+
+    .centered-blue {
+    text-align: center;
+    color: blue;
+  }
+</style>
+  }
 </style>
 
 ## <span class="animated-text">**Summary:**</span>
@@ -98,5 +105,5 @@ The performance of the bicycle was found to be increased significantly after imp
 
 * * *
 
-#### --Thank you for visiting--
+#### <p class="centered-blue animated-text">--Thank you for visiting--</p>
 
