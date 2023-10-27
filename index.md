@@ -4,7 +4,8 @@ title: Shishir Khanal
 
 <style>
   body {
-    background-color: #87CEEB;
+    background-color: white;
+    color: #000000; /* Dark Black */
   }
 </style>
 
