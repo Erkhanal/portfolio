@@ -103,5 +103,5 @@ The performance of the bicycle was found to be increased significantly after imp
 
 * * *
 
-#### <p class="centered-blue animated-text">--Thank you for visiting--</p>
+#### <span class="centered-blue animated-text">--Thank you for visiting--</span>
 
