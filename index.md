@@ -4,7 +4,7 @@ title: Shishir Khanal
 
 <style>
   body {
-    background-color: lightblue;
+    background-color: skyblue;
   }
 </style>
 
