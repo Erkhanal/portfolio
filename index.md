@@ -55,14 +55,13 @@ Tribhuvan University, Institute of Engineering (IOE)
 
 ## <span class="animated-text">**Work Experience:**</span>
 
-*  System Engineer/Design Engineer at Tokyo,Japan
-*  System/Service Engineer-Tata Motors
-*  Engineer-PEPSICO
+*  System /Design Engineer at Tokyo,Japan
+*  Engineer at Tata Motors
+*  Engineer at Pepsi
 
 * * *
 
 ## <span class="animated-text">**Selective Skills:**</span>
-
 •  Proficient in machine learning algorithms and techniques, including regression, classification, clustering, neural networks, and deep learning
 •  Strong programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, and Keras
 •  Data science, statistics, predictive modelling, Kaggle, Git and GitHub proficiency
@@ -96,7 +95,7 @@ Tribhuvan University, Institute of Engineering (IOE)
 *   Engineering and Product Design Processes, Arizona State University
 
 * * *
-## <span class="animated-text">**Projects:**</span>
+## <span class="animated-text">**AI/ML Projects:**</span>
 * * *
 ### **Bike Sharing Project:**
 Building a multiple linear regression model to predict the demand for shared bikes. The project is based on a dataset provided by BoomBikes, a US bike-sharing provider, which aims to understand the factors affecting the demand for shared bikes in the American market.
@@ -113,6 +112,9 @@ Building a multiclass classification model using a custom convolutional neural n
 ### **Gesture Reorganization Project:**
 Building a gesture recognition feature in the smart-TV using deep learning techniques that can recognize five different gestures performed by the user which will help users control the TV without using a remote.
 * * *
+
+## <span class="animated-text">**Mechanical Projects:**</span>
+***
 ### **Design and Development of Magnetic Bicycle:**
 The conversion of magnetic power into mechanical energy is the prime subject of study for the researcher. The project on magnetic powered hybrid bicycle is focused on the investigation of the feasibility of the mechanical energy from the magnet which use its natural properties of attraction and repulsion of the magnet poles to create rotation of the shaft which can be harnessed to do a useful work.
 
