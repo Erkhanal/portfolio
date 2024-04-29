@@ -43,7 +43,7 @@ title: Shishir Khanal
 
 ## <span class="animated-text">**Summary:**</span>
 
-Qualified Mechanical Engineer with a distinct knowledge of mechanical engineering, having a strong passion for programming and AI. Over 4 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in Solidworks, AutoCAD(3D&2D) and programming languages such as Python.
+Qualified engineer with a distinct knowledge of engineering, having a strong passion for programming and AI. Over 5 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills.
 
 * * *
 
@@ -55,16 +55,17 @@ Tribhuvan University, Institute of Engineering (IOE)
 
 ## <span class="animated-text">**Work Experience:**</span>
 
-*  Mechanical Engineer-TOKYO
-*  Service Engineer-TATA MOTORS
-*  Technical Support Engineer-PEPSICO
+*  System Engineer/Design Engineer at Tokyo,Japan
+*  System/Service Engineer-Tata Motors
+*  Engineer-PEPSICO
 
 * * *
 
 ## <span class="animated-text">**Selective Skills:**</span>
 
-Python Programming Proficiency
-•  Proficiency in Data Science, Machine Learning and Artificial Intelligence (AI)
+•  Proficient in machine learning algorithms and techniques, including regression, classification, clustering, neural networks, and deep learning
+•  Strong programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, and Keras
+•  Data science, statistics, predictive modelling, Kaggle, Git and GitHub proficiency
 •  Machine Design and Development Skills 
 •  SolidWorks, CATIA and AutoCAD(2D&3D) Software Proficiency
 •  Microsoft Word, Excel, and PowerPoint Proficiency
@@ -95,9 +96,23 @@ Python Programming Proficiency
 *   Engineering and Product Design Processes, Arizona State University
 
 * * *
-## <span class="animated-text">**Project 1:**</span>
+## <span class="animated-text">**Projects:**</span>
 * * *
-
+### **Bike Sharing Project:**
+Building a multiple linear regression model to predict the demand for shared bikes. The project is based on a dataset provided by BoomBikes, a US bike-sharing provider, which aims to understand the factors affecting the demand for shared bikes in the American market.
+* * *
+### **House Price Prediction:** 
+Predicting house prices using advanced regression techniques such as Ridge and Lasso.
+* * *
+### **Telecom Churn Prediction:**
+Building the best prediction machine learning model using the provided data that is able to predict churning customers. And identify the important predictor variables for churn by building different models like logistic regression, decision trees or random Forest and choose the best performing model based on evaluation Metrics and business objectives.
+* * *
+### **Melanoma-Detection Project:**
+Building a multiclass classification model using a custom convolutional neural network in TensorFlow, that can assist dermatologists to detect melanoma accurately and efficiently.
+* * *
+### **Gesture Reorganization Project:**
+Building a gesture recognition feature in the smart-TV using deep learning techniques that can recognize five different gestures performed by the user which will help users control the TV without using a remote.
+* * *
 ### **Design and Development of Magnetic Bicycle:**
 The conversion of magnetic power into mechanical energy is the prime subject of study for the researcher. The project on magnetic powered hybrid bicycle is focused on the investigation of the feasibility of the mechanical energy from the magnet which use its natural properties of attraction and repulsion of the magnet poles to create rotation of the shaft which can be harnessed to do a useful work.
 
