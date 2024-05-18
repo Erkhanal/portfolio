@@ -43,7 +43,7 @@ title: Shishir Khanal
 
 ## <span class="animated-text">**Summary:**</span>
 
-Qualified engineer with a distinct knowledge of engineering, having a strong passion for programming and AI. Over 5 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills.
+Qualified mechanical engineer with a distinct knowledge of engineering, having a strong passion for research, and innovative design. Over 5 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D) and programming languages such as Python.
 
 * * *
 
@@ -55,21 +55,21 @@ Tribhuvan University, Institute of Engineering (IOE)
 
 ## <span class="animated-text">**Work Experience:**</span>
 
-*  System /Design Engineer at Tokyo,Japan
-*  Engineer at Tata Motors
-*  Engineer at Pepsi
+*  Design/System Development Engineer at Tokyo, Japan
+*  Mechanical Engineer at Tata Motors
+*  Mechanical Engineer at Pepsi
 
 * * *
 
 ## <span class="animated-text">**Selective Skills:**</span>
-•  Proficient in machine learning algorithms and techniques, including regression, classification, clustering, neural networks, and deep learning
+• Machine design and development skills 
+• SolidWorks and AutoCAD(2D&3D) software proficiency
+• Microsoft word, excel, and PowerPoint proficiency
+• Proficient in machine learning algorithms and techniques, including regression, classification, clustering, neural networks, and deep learning
 •  Strong programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, and Keras
 •  Data science, statistics, predictive modelling, Kaggle, Git and GitHub proficiency
-•  Machine Design and Development Skills 
-•  SolidWorks, CATIA and AutoCAD(2D&3D) Software Proficiency
-•  Microsoft Word, Excel, and PowerPoint Proficiency
-•  Technical Report Writing Skills
-•  Critical Thinking and Creative Skills
+•  Technical writing and reporting skills
+•  Fast learner and independent with strong leadership and critical thinking skills
 •  Time Management Skills
 
 ![pic](https://github.com/Erkhanal/portfolio/assets/148779208/1613f1a7-22fe-47c5-ae54-1aa7f4d15fa4)
