@@ -142,6 +142,45 @@ The performance of the bicycle was found to be increased significantly after imp
 ![Picture13](https://github.com/Erkhanal/portfolio/assets/148779208/58ab3f93-1090-425c-8d3a-d8df8617d31c)
 
 * * *
+## **Contact Me:**
+If you have any questions or want to collaborate, please send me a message!
 
+<div style="margin-top: 40px; background-color: #f9f9f9; padding: 20px; border-radius: 8px;">
+  <h2 style="text-align: center; margin-bottom: 20px;">Send Me a Message</h2>
+  <form action="https://formspree.io/f/xpzvvwpw" method="POST" style="max-width: 600px; margin: auto;">
+    <div style="margin-bottom: 15px;">
+      <label for="name" style="font-weight: bold;">Name:</label>
+      <input type="text" id="name" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+    </div>
+    <div style="margin-bottom: 15px;">
+      <label for="email" style="font-weight: bold;">Email:</label>
+      <input type="email" id="email" name="_replyto" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+    </div>
+    <div style="margin-bottom: 15px;">
+      <label for="message" style="font-weight: bold;">Message:</label>
+      <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
+    </div>
+    <button type="submit" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Send Message</button>
+  </form>
+</div>
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f6f6f6;
+  }
+  h1, h2 {
+    text-align: center;
+    color: #333;
+  }
+  form {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  button:hover {
+    background-color: #45a049;
+  }
+</style>
 #### <span class="centered-blue animated-text">--Thank you for visiting--</span>
 
