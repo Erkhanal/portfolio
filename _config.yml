@@ -7,7 +7,9 @@ description: |
   <div style="color: black; text-align: center; font-weight: bold; background-color: lightblue;">
     Researcher/Engineer
   </div>
-  <p align="center">
-    <a href="mailto:shishir.khanal40@gmail.com" class="message-button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border: none; border-radius: 5px; text-align: center; text-decoration: none; cursor: pointer;">Message Me</a>
+  <p align="center" style="margin-top: 20px;">
+    <a href="mailto:shishir.khanal40@gmail.com" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      Message
+    </a>
   </p>
 
