@@ -144,7 +144,7 @@ The performance of the bicycle was found to be increased significantly after imp
 * * *
 
 ## <span class="animated-text">**Contact:**</span>
-If you have any questions or want to collaborate, please don't hesitate to reach out. Or you can connect with me through LinkedIn.
+If you have any questions or want to collaborate, please don't hesitate to reach out. You can aslo connect with me through LinkedIn.
 
 <div style="margin-top: 40px; background-color: #f9f9f9; padding: 30px; border-radius: 8px; max-width: 600px; margin: auto;">
   <h2 style="text-align: center; margin-bottom: 20px;">Send Message</h2>
