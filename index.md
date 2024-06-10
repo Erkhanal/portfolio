@@ -160,25 +160,6 @@ The performance of the bicycle was found to be increased significantly after imp
   </form>
 </div>
 
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f6f6f6;
-  }
-  h1, h2 {
-    text-align: center;
-    color: #333;
-  }
-  form {
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  }
-  button:hover {
-    background-color: #45a049;
-  }
-</style>
-
 ***
 
 #### <span class="centered-blue animated-text">--Thank you for visiting--</span>
