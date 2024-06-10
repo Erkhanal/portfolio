@@ -143,25 +143,20 @@ The performance of the bicycle was found to be increased significantly after imp
 
 * * *
 
-## **Contact Me:**
-If you have any questions or want to collaborate, please don't hesitate to reach out!
-
-<div style="margin-top: 40px; background-color: #f9f9f9; padding: 20px; border-radius: 8px;">
+### **Contact:**
+<div style="margin-top: 40px; background-color: #f9f9f9; padding: 30px; border-radius: 8px; max-width: 600px; margin: auto;">
   <h2 style="text-align: center; margin-bottom: 20px;">Send Message</h2>
-  <form action="https://formspree.io/f/xpzvvwpw" method="POST" style="max-width: 600px; margin: auto;">
-    <div style="margin-bottom: 15px;">
-      <label for="name" style="font-weight: bold;">Name:</label>
-      <input type="text" id="name" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+  <form action="https://formspree.io/f/xpzvvwpw" method="POST" style="margin-bottom: 0;">
+    <div style="margin-bottom: 20px;">
+      <input type="text" id="name" name="name" placeholder="Your Name" required style="width: 100%; padding: 15px; border: 1px solid #ccc; border-radius: 8px; font-size: 16px;">
     </div>
-    <div style="margin-bottom: 15px;">
-      <label for="email" style="font-weight: bold;">Email:</label>
-      <input type="email" id="email" name="_replyto" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+    <div style="margin-bottom: 20px;">
+      <input type="email" id="email" name="_replyto" placeholder="Your Email" required style="width: 100%; padding: 15px; border: 1px solid #ccc; border-radius: 8px; font-size: 16px;">
     </div>
-    <div style="margin-bottom: 15px;">
-      <label for="message" style="font-weight: bold;">Message:</label>
-      <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
+    <div style="margin-bottom: 20px;">
+      <textarea id="message" name="message" rows="5" placeholder="Your Message" required style="width: 100%; padding: 15px; border: 1px solid #ccc; border-radius: 8px; font-size: 16px;"></textarea>
     </div>
-    <button type="submit" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Send Message</button>
+    <button type="submit" style="background-color: #4CAF50; color: white; padding: 15px 20px; border: none; border-radius: 8px; cursor: pointer; width: 100%; font-size: 16px;">Send Message</button>
   </form>
 </div>
 
