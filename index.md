@@ -142,11 +142,12 @@ The performance of the bicycle was found to be increased significantly after imp
 ![Picture13](https://github.com/Erkhanal/portfolio/assets/148779208/58ab3f93-1090-425c-8d3a-d8df8617d31c)
 
 * * *
+
 ## **Contact Me:**
-If you have any questions or want to collaborate, please send me a message!
+If you have any questions or want to collaborate, please don't hesitate to reach out!
 
 <div style="margin-top: 40px; background-color: #f9f9f9; padding: 20px; border-radius: 8px;">
-  <h2 style="text-align: center; margin-bottom: 20px;">Send Me a Message</h2>
+  <h2 style="text-align: center; margin-bottom: 20px;">Send Message</h2>
   <form action="https://formspree.io/f/xpzvvwpw" method="POST" style="max-width: 600px; margin: auto;">
     <div style="margin-bottom: 15px;">
       <label for="name" style="font-weight: bold;">Name:</label>
@@ -182,5 +183,8 @@ If you have any questions or want to collaborate, please send me a message!
     background-color: #45a049;
   }
 </style>
+
+***
+
 #### <span class="centered-blue animated-text">--Thank you for visiting--</span>
 
