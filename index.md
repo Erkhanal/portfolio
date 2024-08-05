@@ -43,7 +43,7 @@ title: Shishir Khanal
 
 ## <span class="animated-text">**Summary:**</span>
 
-Qualified engineer with a distinct knowledge of engineering, having a strong passion for programming and AI. Over 5 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills.
+Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, and programming languages such as Python.
 
 * * *
 
@@ -63,16 +63,16 @@ Tribhuvan University, Institute of Engineering (IOE)
 
 ## <span class="animated-text">**Selective Skills:**</span>
 •  Proficient in machine learning algorithms and techniques, including regression, classification, clustering, neural networks, and deep 
-   learning, NLP
-•  Strong programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, 
-   Scikit-learn, NLTK, and Keras
-•  Data science, statistics, predictive modelling, Kaggle, Git and GitHub proficiency
-•  Machine design and development skills 
-•  SolidWorks and AutoCAD(2D&3D) software proficiency
-•  Microsoft word, excel, and PowerPoint proficiency
-•  Technical writing and reporting skills
-•  Fast learner and independent with strong leadership and critical thinking skills
-•  Time Management Skills
+   learning, NLP, generative AI</br>
+•  Strong programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, TensorFlow, PyTorch, 
+   Scikit-learn, NLTK, Keras, OpenCV spaCy </br>
+•  Data science, statistics, predictive modelling, Kaggle, Git and GitHub, SQL, HTML, CSS, Javascript proficiency</br>
+•  Machanical design and development skills</br> 
+•  SolidWorks and AutoCAD(2D&3D) software proficiency</br>
+•  Microsoft word, excel, and PowerPoint proficiency</br>
+•  Technical writing and reporting skills</br>
+•  Fast learner and independent with strong leadership and critical thinking skills</br>
+•  Time Management Skills</br>
 
 ![pic](https://github.com/Erkhanal/portfolio/assets/148779208/1613f1a7-22fe-47c5-ae54-1aa7f4d15fa4)
 
@@ -97,7 +97,7 @@ Tribhuvan University, Institute of Engineering (IOE)
 *   Engineering and Product Design Processes, Arizona State University
 
 * * *
-## <span class="animated-text">**AI/ML Projects:**</span>
+## <span class="animated-text">**ML/AI Projects:**</span>
 * * *
 ### **Bike Sharing Project:**
 Building a multiple linear regression model to predict the demand for shared bikes. The project is based on a dataset provided by BoomBikes, a US bike-sharing provider, which aims to understand the factors affecting the demand for shared bikes in the American market.
@@ -113,6 +113,15 @@ Building a multiclass classification model using a custom convolutional neural n
 * * *
 ### **Gesture Reorganization Project:**
 Building a gesture recognition feature in the smart-TV using deep learning techniques that can recognize five different gestures performed by the user which will help users control the TV without using a remote.
+* * *
+### **Custom Entity Detection In Healthcare Data (NLP):**
+Building a custom NER to get the list of diseases and their treatment from a medical healthcare dataset.
+* * *
+### **Automatic Classification Of Customer Complaints:**
+Creating a solution that will help in identifying the type of complaint ticket raised by the customers.
+* * *
+### **Fake News Detection System:**
+Building fake news detection system using various machine learning models. such as Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, Random Forest Classifier.
 * * *
 
 ## <span class="animated-text">**Mechanical Projects:**</span>
