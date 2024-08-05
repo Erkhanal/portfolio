@@ -121,7 +121,7 @@ Building a custom NER to get the list of diseases and their treatment from a med
 Creating a solution that will help in identifying the type of complaint ticket raised by the customers.
 * * *
 ### **Fake News Detection System:**
-Building fake news detection system using various machine learning models. such as Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, Random Forest Classifier.
+Building fake news detection system using various machine learning models such as Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, Random Forest Classifier.
 * * *
 
 ## <span class="animated-text">**Mechanical Projects:**</span>
