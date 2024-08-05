@@ -25,7 +25,9 @@
             font-size: 16px;
             color: blue;
             text-decoration: none;
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
+            font-weight: bold;
             position: relative;
             padding: 10px;
             margin: 10px;
@@ -34,16 +36,12 @@
         }
         .linkedin-link:hover {
             color: darkblue;
-            transform: scale(1.1);
+            transform: scale(1.05);
         }
-        .linkedin-link::before {
-            content: url('/assets/img/001.jpg');
-            position: absolute;
-            left: -40px;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 30px;
-            height: 30px;
+        .linkedin-link img {
+            margin-right: 10px;
+            width: 20px;
+            height: 20px;
         }
     </style>
 </head>
@@ -52,7 +50,10 @@
         <p>Shishir Khanal</p>
     </div>
     <p class="description">
-        <a href="https://jp.linkedin.com/in/er-shishir-khanal-26b125139" class="linkedin-link">Connect on LinkedIn</a>
+        <a href="https://jp.linkedin.com/in/er-shishir-khanal-26b125139" class="linkedin-link">
+            <img src="/assets/img/002.jpg" alt="LinkedIn Logo">
+            Connect on LinkedIn
+        </a>
     </p>
     <div class="description">
         Researcher/Engineer
