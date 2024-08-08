@@ -49,29 +49,29 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ## <span class="animated-text">**Education:**</span>
 
-* Master's Degree In Machine Learning and Artificial Intelligence (2023-Present)
-* Bachelor's Degree In Mechanical Engineering (2013-2017)
+*   Master's Degree In Machine Learning and Artificial Intelligence (2023-Present)
+*   Bachelor's Degree In Mechanical Engineering (2013-2017)
 
 * * *
 
 ## <span class="animated-text">**Work Experience:**</span>
 
-*  System Development and Design Engineer at Tokyo, Japan (2020-Present)
-*  Mechanical Engineer at Tata Motors (2018-2019)
-*  Internship Engineer at Pepsi
+*   System Development and Design Engineer at Tokyo, Japan (2020-Present)
+*   Mechanical Engineer at Tata Motors (2018-2019)
+*   Internship Engineer at Pepsi
 
 * * *
 
 ## <span class="animated-text">**Selective Skills:**</span>
-* Proficient in machine learning algorithms and techniques, including regression, classification, clustering, neural networks, deep learning, NLP, LLM, generative AI
-* Programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, TensorFlow, PyTorch, Scikit-learn, NLTK, Keras, OpenCV, spaCy
-* Data science, statistics, predictive modelling, Kaggle, Git and GitHub, SQL, HTML, CSS, JavaScript proficiency
-* Mechanical design and development skills
-* SolidWorks and AutoCAD (2D & 3D) software proficiency
-* Microsoft Word, Excel, and PowerPoint proficiency
-* Technical writing and reporting skills
-* Fast learner and independent with strong leadership and critical thinking skills
-* Time management skills
+*   Proficient in machine learning algorithms and techniques, including regression, classification, clustering, neural networks, deep learning, NLP, LLM, generative AI
+*   Programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, TensorFlow, PyTorch, Scikit-learn, NLTK, Keras, OpenCV, spaCy
+*   Data science, statistics, predictive modelling, Kaggle, Git and GitHub, SQL, HTML, CSS, JavaScript proficiency
+*   Mechanical design and development skills
+*   SolidWorks and AutoCAD (2D & 3D) software proficiency
+*   Microsoft Word, Excel, and PowerPoint proficiency
+*   Technical writing and reporting skills
+*   Fast learner and independent with strong leadership and critical thinking skills
+*   Time management skills
   
 
 ![pic](https://github.com/Erkhanal/portfolio/assets/148779208/1613f1a7-22fe-47c5-ae54-1aa7f4d15fa4)
