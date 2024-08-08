@@ -49,6 +49,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ## <span class="animated-text">**Education:**</span>
 
+Tribhuvan University, Institute of Engineering (IOE)
 * Master's Degree In Machine Learning and Artificial Intelligence (2023-Present)
 * Bachelor's Degree In Mechanical Engineering (2013-2017)
 
