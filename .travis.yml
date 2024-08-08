@@ -1,11 +1,14 @@
-language: ruby
-cache: bundler
-rvm: 3.0.0
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0.0
+      - run: gem install bundler
+      - run: bundle install
+      - run: script/bootstrap
 
-install:
-  - gem install bundler
-  - script/bootstrap
-
-script:
-  - script/cibuild
 
