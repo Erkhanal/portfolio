@@ -80,8 +80,8 @@ Tribhuvan University, Institute of Engineering (IOE)
 
 ## <span class="animated-text">**Languages skills:**</span>
 
-*   English: Working Proficiency Plus-TOEIC
-*   Japanese: Intermediate Level-JLPT
+*   English: Working proficiency plus (TOEIC)
+*   Japanese: Intermediate Level Proficiency
 
 * * *
 
