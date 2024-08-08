@@ -49,16 +49,15 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ## <span class="animated-text">**Education:**</span>
 
-* Master's Degree In Machine Learning and Artificial Intelligence (2023-Present)
-* Bachelor's Degree In Mechanical Engineering (2013-2017)
+Tribhuvan University, Institute of Engineering (IOE)
 
 * * *
 
 ## <span class="animated-text">**Work Experience:**</span>
 
-* System Development and Design Engineer at Tokyo, Japan (2020-Present)
-* Mechanical Engineer at Tata Motors (2018-2019)
-* Internship Engineer at Pepsi
+*  System Development Engineer/Design Engineer at Tokyo, Japan
+*  Systems/Service Engineer at Tata Motors
+*  Internship Engineer at Pepsi
 
 * * *
 
@@ -81,8 +80,8 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ## <span class="animated-text">**Languages skills:**</span>
 
-*   English: Business Level Proficiency
-*   Japanese: Intermediate Level Proficiency
+*   English: Working Proficiency Plus (TOEIC)
+*   Japanese: Intermediate Level (JLPT)
 
 * * *
 
