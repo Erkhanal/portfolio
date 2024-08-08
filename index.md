@@ -43,13 +43,12 @@ title: Shishir Khanal
 
 ## <span class="animated-text">**Summary:**</span>
 
-Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming, and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS Office, SolidWorks, AutoCAD (3D & 2D), ML/AI, deep learning, NLP, LLM, generative AI, and programming languages such as Python.
+Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, and programming languages such as Python.
 
 * * *
 
 ## <span class="animated-text">**Education:**</span>
 
-Tribhuvan University, Institute of Engineering (IOE)
 * Master's Degree In Machine Learning and Artificial Intelligence (2023-Present)
 * Bachelor's Degree In Mechanical Engineering (2013-2017)
 
@@ -64,32 +63,26 @@ Tribhuvan University, Institute of Engineering (IOE)
 * * *
 
 ## <span class="animated-text">**Selective Skills:**</span>
-
-* Proficient in machine learning algorithms and techniques, including regression, classification, clustering, neural networks, deep learning, NLP, LLM, and generative AI
-* Strong programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, TensorFlow, PyTorch, Scikit-learn, NLTK, Keras, OpenCV, and spaCy
-* Data science, statistics, predictive modelling, Kaggle, Git and GitHub, SQL, HTML, CSS, and JavaScript proficiency
-* Mechanical design and development skills
-* SolidWorks and AutoCAD (2D & 3D) software proficiency
-* Microsoft Word, Excel, and PowerPoint proficiency
-* Technical writing and reporting skills
-* Fast learner and independent with strong leadership and critical thinking skills
-* Time management skills
+•  Proficient in machine learning algorithms and techniques, including regression, classification, clustering, neural networks, and deep 
+   learning, NLP, generative AI
+•  Strong programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, TensorFlow, PyTorch, 
+   Scikit-learn, NLTK, Keras, OpenCV spaCy 
+•  Data science, statistics, predictive modelling, Kaggle, Git and GitHub, SQL, HTML, CSS, Javascript proficiency
+•  Machanical design and development skills
+•  SolidWorks and AutoCAD(2D&3D) software proficiency
+•  Microsoft word, excel, and PowerPoint proficiency
+•  Technical writing and reporting skills
+•  Fast learner and independent with strong leadership and critical thinking skills
+•  Time management skills
 
 ![pic](https://github.com/Erkhanal/portfolio/assets/148779208/1613f1a7-22fe-47c5-ae54-1aa7f4d15fa4)
 
 * * *
 
-## <span class="animated-text">**Language Skills:**</span>
-
-* English: Working proficiency plus (TOEIC)
-* Japanese: Intermediate Level (JLPT)
-
-* * *
-
 ## <span class="animated-text">**Languages skills:**</span>
 
-*   English: Working proficiency plus (TOEIC)
-*   Japanese: Intermediate Level (JLPT)
+*   English: Business Level Proficiency
+*   Japanese: Intermediate Level Proficiency
 
 * * *
 
@@ -182,4 +175,3 @@ If you have any questions or want to collaborate, please don't hesitate to reach
 ***
 
 ### <span class="centered-blue animated-text">--Thank you for visiting--</span>
-
