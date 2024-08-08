@@ -73,7 +73,8 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 *   Microsoft word, excel, and PowerPoint proficiency
 *   Technical writing and reporting skills
 *   Fast learner and independent with strong leadership and critical thinking skills
-*   Time management skills 
+*   Time management skills
+  
 
 ![pic](https://github.com/Erkhanal/portfolio/assets/148779208/1613f1a7-22fe-47c5-ae54-1aa7f4d15fa4)
 
