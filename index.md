@@ -51,6 +51,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - Bachelor’s Degree in Mechanical Engineering</br>
 - Executive Post Graduate in Machine Learning & Artificial Intelligence</br>
 - Master of Science (MSc) in Machine Learning & Artificial Intelligence
+  
 ***
 ## <span class="animated-text">**Work Experience:**</span>
 
