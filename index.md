@@ -53,6 +53,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - Master of Science (MSc) in Machine Learning & Artificial Intelligence
   
 ***
+
 ## <span class="animated-text">**Work Experience:**</span>
 
 - System Development and Design Engineer at Tokyo, Japan-(09/2020 to present)</br>
