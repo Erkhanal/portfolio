@@ -1,65 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shishir Khanal</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f4f4f4;
-        }
-        .header {
-            color: black;
-            font-weight: bold;
-        }
-        .description {
-            color: black;
-            font-weight: bold;
-            background-color: lightblue;
-            padding: 10px;
-            margin-top: 10px;
-        }
-        .linkedin-link {
-            font-size: 16px;
-            color: blue;
-            text-decoration: none;
-            display: inline-flex;
-            align-items: center;
-            font-weight: bold;
-            position: relative;
-            padding: 10px;
-            margin: 10px;
-            border-radius: 5px;
-            transition: color 0.3s ease, transform 0.3s ease;
-        }
-        .linkedin-link:hover {
-            color: darkblue;
-            transform: scale(1.05);
-        }
-        .linkedin-link img {
-            margin-right: 10px;
-            width: 20px;
-            height: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="header">
-        <p>Shishir Khanal</p>
-    </div>
-    <p class="description">
-        <a href="https://jp.linkedin.com/in/er-shishir-khanal-26b125139" class="linkedin-link">
-            <img src="/assets/img/002.png" alt="LinkedIn Logo">
-            Connect on LinkedIn
-        </a>
-    </p>
-    <div class="description">
-        Researcher/Engineer
-    </div>
-</body>
-</html>
+title: "<div style='text-align: center;'><p style='color: black; font-weight: bold;'>Shishir Khanal</p></div>"
+logo: /assets/img/001.jpg
+description: |
+  <p align="center">
+    <a href="https://jp.linkedin.com/in/er-shishir-khanal-26b125139" style="font-size: 16px; color: blue; text-decoration: underline;">Connect on LinkedIn</a>
+  </p>
+  <div style="color: black; text-align: center; font-weight: bold; background-color: lightblue;">
+    Mechanical Engineer with a Master’s Degree in AI
+  </div>
 
 
 
