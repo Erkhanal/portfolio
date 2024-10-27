@@ -40,11 +40,27 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
+        <style>
+            .animated-link {
+              color: blue;
+              font-weight: bold;
+              font-size: 14px;
+              transition: color 0.3s ease, transform 0.3s ease;
+            }
+
+           .animated-link:hover {
+              color: darkblue; /* Change the color on hover */
+              transform: scale(1.1); /* Slightly enlarge the link */
+              text-decoration: underline; /* Add underline on hover */
+            }
+        </style>
+
         <p style="background-color: #f0f0f0; padding: 10px; text-align: center;">
             <span style="font-weight: bold; color: green;">View the Project on GitHub</span>
-            <a href="{{ site.github.owner_url }}" style="color: blue; font-weight: bold; font-size: 14px;"> {{ site.github.owner_name }}</a>
+            <a href="{{ site.github.owner_url }}" class="animated-link">{{ site.github.owner_name }}</a>
         </p>
         {% endif %}
+
         
       </footer>
     </div>
