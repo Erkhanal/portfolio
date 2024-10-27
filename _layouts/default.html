@@ -40,7 +40,10 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>View the Project on GitHub <a href="{{ site.github.owner_url }}" style="color: blue; font-weight: bold; font-size: 14px">{{ site.github.owner_name }}</a></p>
+        <p style="background-color: #f0f0f0; padding: 10px;">
+            <span style="font-weight: bold; color: green;">View the Project on GitHub</span>
+            <a href="{{ site.github.owner_url }}" style="color: blue; font-weight: bold; font-size: 14px;"> {{ site.github.owner_name }}</a>
+        </p>
         {% endif %}
         
       </footer>
