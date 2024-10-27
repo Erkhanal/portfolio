@@ -102,7 +102,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - **Natural Language Processing (NLP):**
     - Lexical analysis, Syntactic analysis, Semantic analysis, Discourse integration, Pragmatic analysis
     - Text Preprocessing: Tokenization, Lemmatization and Stemming, Stopword removal, Sentence splitting, Part-of-Speech (POS) tagging, Named Entity Recognition (NER), Text normalization (lowercasing, punctuation removal)
-    - Text Representation: Bag of Words (BoW), Term Frequency-Inverse Document Frequency (TF-IDF), Word embeddings (Word2Vec, GloVe, FastText), Sentence embeddings (BERT, GPT, Sentence-BERT, etc.), One-hot encoding
+    - Text Representation: Bag of Words (BoW), Term Frequency-Inverse Document Frequency (TF-IDF), Word embeddings (Word2Vec, GloVe, FastText), Inside-outside-beginning (IOB), Sentence embeddings (BERT, GPT, Sentence-BERT, etc.), One-hot encoding
     - Language Models: Transformer models (BERT, GPT, RoBERTa, T5), Recurrent Neural Networks (RNN, LSTM, GRU), Attention mechanisms, Pre-training and fine-tuning of large models
     - Text classification, Sentiment analysis, Topic modeling, Emotion detection, Sequence modeling, Machine translation, Text generation, Question answering, Text summarization, Semantic role labeling, Co-reference resolution, Dependency parsing, Intent detection, Slot filling, Response generation, Content creation
     - Text Similarity & Clustering: Cosine similarity, Jaccard similarity, Text clustering (e.g., K-means, Agglomerative clustering), Topic modeling (LDA)
