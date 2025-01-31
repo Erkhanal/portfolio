@@ -23,7 +23,7 @@ title: Shishir Khanal
       opacity: 0;
       transform: scale(0.8);
     }
-    100% {
+    60% {
       opacity: 1;
       transform: scale(1);
       color: green;
