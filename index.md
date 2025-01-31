@@ -62,7 +62,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/G1.JPG" alt="Image 2" style="width: 600px; height: 200px; object-fit: cover;">
+    <img src="assets/img/G1.JPG" alt="Image 2" style="width: 600px; height: 350px; object-fit: cover;">
 </div>
 
 ***
@@ -234,10 +234,10 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
-  - Adaptability & Flexibility (Adjusting to New Technologies, Working in Dynamic Environments)
-  - Attention to Detail & Accuracy (Precision in Design, Error Detection, Quality Assurance)
-  - Creativity & Innovation (Concept Development, Process Improvement, Design Thinking)
-  - Decision-Making & Risk Management (Evaluating Trade-offs, Analyzing Potential Outcomes)
+   - Adaptability & Flexibility (Adjusting to New Technologies, Working in Dynamic Environments)
+   - Attention to Detail & Accuracy (Precision in Design, Error Detection, Quality Assurance)
+   - Creativity & Innovation (Concept Development, Process Improvement, Design Thinking)
+   - Decision-Making & Risk Management (Evaluating Trade-offs, Analyzing Potential Outcomes)
 
 ***
 
@@ -246,12 +246,12 @@ RAG (Retrieval-Augmented Generation)
 </div>
 
 ***
-  - Collaboration & Cross-Functional Teamwork (Working with Diverse Teams, Cross-Departmental Coordination)
-  - Customer Focus & Client Relationship Management (Customer-Centered Solutions, Active Listening)
-  - Conflict Resolution & Negotiation (Mediating Disagreements, Reaching Consensus)
-  - Self-motivation (Dedication, responsibility, and reliability in completing tasks)
-  - Continuous Learning & Self-Improvement (Staying Updated on Industry Trends, Pursuing Skill Enhancement)
-  - Empathy & Emotional Intelligence (Understanding Team Needs, Building Rapport)
+   - Collaboration & Cross-Functional Teamwork (Working with Diverse Teams, Cross-Departmental Coordination)
+   - Customer Focus & Client Relationship Management (Customer-Centered Solutions, Active Listening)
+   - Conflict Resolution & Negotiation (Mediating Disagreements, Reaching Consensus)
+   - Self-motivation (Dedication, responsibility, and reliability in completing tasks)
+   - Continuous Learning & Self-Improvement (Staying Updated on Industry Trends, Pursuing Skill Enhancement)
+   - Empathy & Emotional Intelligence (Understanding Team Needs, Building Rapport)
 
 ***
     
