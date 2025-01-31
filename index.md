@@ -220,11 +220,13 @@ RAG (Retrieval-Augmented Generation)
 
 ## <span class="animated-text">**Soft Skills:**</span>
 
-- **Soft Skills:**
-    - Problem-Solving & Critical Thinking (Root Cause Analysis, Innovative Solutions)
-    - Communication & Interpersonal Skills (Team Collaboration, Client Interaction, Technical Presentations)
-    - Leadership & Team Management (Project Leadership, Mentoring, Conflict Resolution)
-    - Time Management & Organization (Task Prioritization, Deadline Management, Multitasking)
+  - Problem-Solving & Critical Thinking (Root Cause Analysis, Innovative Solutions)
+  - Communication & Interpersonal Skills (Team Collaboration, Client Interaction, Technical Presentations)
+  - Leadership & Team Management (Project Leadership, Mentoring, Conflict Resolution)
+  - Creativity & Innovation (Concept Development, Process Improvement, Design Thinking)
+  - Decision-Making & Risk Management (Evaluating Trade-offs, Analyzing Potential Outcomes)
+  - Collaboration & Cross-Functional Teamwork (Working with Diverse Teams, Cross-Departmental Coordination)
+  - Time Management & Organization (Task Prioritization, Deadline Management, Multitasking)
 
 ***
 
@@ -233,12 +235,29 @@ RAG (Retrieval-Augmented Generation)
 </div> 
 
 ***
-
    - Adaptability & Flexibility (Adjusting to New Technologies, Working in Dynamic Environments)
    - Attention to Detail & Accuracy (Precision in Design, Error Detection, Quality Assurance)
-   - Creativity & Innovation (Concept Development, Process Improvement, Design Thinking)
-   - Decision-Making & Risk Management (Evaluating Trade-offs, Analyzing Potential Outcomes)
+   - Self-motivation (Dedication, responsibility, and reliability in completing tasks)
+   - Cultural Sensitivity (Respecting Diverse Backgrounds, Adapting to Global Teams, Promoting Inclusivity)
+   - Leadership & Management (Leading Teams, Motivating Others, Providing Clear Direction)
+   - Empathy & Emotional Intelligence (Understanding Team Needs, Building Rapport)
+     
+***
+    
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/SS2.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
 
+***
+ 
+   - Customer Focus & Client Relationship Management (Customer-Centered Solutions, Active Listening)
+   - Conflict Resolution & Negotiation (Mediating Disagreements, Reaching Consensus)
+   - Stress Management (Staying Calm Under Pressure, Managing Stressful Situations, Prioritizing Tasks)
+   - Customer Service (Understanding Client Needs, Providing Solutions, Maintaining Positive Relationships)
+   - Positive Attitude (Maintaining Optimism, Encouraging Team Morale, Fostering a Can-Do Mindset)
+   - Confidence (Speaking Assertively, Taking Initiative, Trusting One’s Abilities)
+   - Continuous Learning & Self-Improvement (Staying Updated on Industry Trends, Pursuing Skill Enhancement)
+     
 ***
 
 <div style="display: flex; justify-content: space-between;">
@@ -246,21 +265,6 @@ RAG (Retrieval-Augmented Generation)
 </div>
 
 ***
-   - Collaboration & Cross-Functional Teamwork (Working with Diverse Teams, Cross-Departmental Coordination)
-   - Customer Focus & Client Relationship Management (Customer-Centered Solutions, Active Listening)
-   - Conflict Resolution & Negotiation (Mediating Disagreements, Reaching Consensus)
-   - Self-motivation (Dedication, responsibility, and reliability in completing tasks)
-   - Continuous Learning & Self-Improvement (Staying Updated on Industry Trends, Pursuing Skill Enhancement)
-   - Empathy & Emotional Intelligence (Understanding Team Needs, Building Rapport)
-
-***
-    
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/SS2.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-*** 
-
 ## <span class="animated-text">**Languages skills:**</span>
 
 - English: Working proficiency plus (TOEIC)
