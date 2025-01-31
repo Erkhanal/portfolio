@@ -172,12 +172,20 @@ RAG (Retrieval-Augmented Generation)
 
 ## <span class="animated-text">**Mechanical Engineering-Related Skills:**</span>
 
-- **Design & Simulation Tools:**
-    - Proficiency in SolidWorks, CATIA, ANSYS, and AutoCAD (2D & 3D)
-    - Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD)
-    - Mechanical Design & Development, Tooling and Fixture Design
-    - Automotive Simulation and Engine Performance Optimization
-      
+- **Mechanical Engineering:**
+    - Mechanical Design & Product Development, proficiency in SolidWorks, CATIA, ANSYS, and AutoCAD (2D & 3D)
+    - Structural Analysis & FEA (Stress Analysis, Fatigue, Thermal Analysis)
+    - Thermodynamics & Heat Transfer (HVAC, Heat Exchangers, Cooling Systems)
+    - Fluid Mechanics & Hydraulics (CFD, Pumps, Compressors, Pipeline Systems)
+    - Manufacturing & Production Engineering (CNC Machining, Casting, Welding, Additive Manufacturing)
+    - Materials Science & Metallurgy (Material Selection, Failure Analysis, Surface Treatments)
+    - Pneumatic & Hydraulic Systems (Braking, Steering, Actuators, Fluid Power)
+    - Kinematics & Dynamics of Machines (Vibration Analysis, Mechanism Design, Motion Simulation)
+    - Quality Assurance & Control (ISO Standards, Six Sigma, Lean Manufacturing)
+    - Metrology, Instrumentation, and Measurement Techniques
+    - Mechatronics & Control Systems (Sensors, Actuators, Embedded Systems)
+    - Project Management & Technical Documentation (DFMEA, Risk Assessment, Compliance)
+           
 ***
 
 <div style="display: flex; justify-content: space-between;">
@@ -187,38 +195,21 @@ RAG (Retrieval-Augmented Generation)
 ***
 
 - **Automotive Engineering & Vehicle Technologies:**
-    - Automotive Design, Powertrain Engineering, Internal Combustion Engines
-    - Electric Vehicle (EV) Technologies, Drivetrain and Transmission Systems
-    - NVH (Noise, Vibration, and Harshness) Analysis, Vehicle Dynamics
-    - Prototyping and Testing, Vehicle Testing & Validation
-    - Automotive Standards Compliance, Durability Testing, Crash Testing
-
-- **Manufacturing & Production Expertise:**
-    - Lean Manufacturing, Six Sigma, Automation & Robotics
-    - Welding, Casting, and Machining Processes
-    - Supply Chain and Vendor Management, Quality Control
-    - Manufacturing Engineering, Process Optimization
+    - Automotive Design & Powertrain Engineering (IC Engines, Transmissions, EV Powertrains)
+    - Diagnostics, Repair & Maintenance (Fault Detection, Troubleshooting, Preventive Maintenance)
+    - Chassis, Suspension & Drivetrain (Multi-Link, Air Suspension, Adaptive Damping)
+    - Tire Dynamics & Wheel Alignment (TPMS, Wear Analysis, Performance Optimization)
+    - Battery & High-Voltage EV Systems (Charging, BMS, Thermal Management)
+    - Electrical & Electronics Systems (ECUs, CAN Bus, ADAS, Wiring Harness)
+    - Cooling & HVAC Systems (Engine Cooling, Climate Control, Heat Exchangers)
+    - Hydraulic & Pneumatic Systems (Brake Systems, Power Steering, Air Suspension)
+    - Vehicle Dynamics & Performance Analysis (Aerodynamics, Handling, Stability)
+    - NVH (Noise, Vibration & Harshness) Optimization (Soundproofing, Vibration Control)
+    - Heavy Vehicle Systems & Compliance (Emissions Control, DPF, SCR, AdBlue, Regulatory Standards)
+    - Prototyping, Testing & Validation (Durability Testing, Crash Testing, Regulatory Compliance)
+    - Manufacturing & Production Processes (Assembly, Material Selection, Quality Control)
+    - Automotive Safety & Risk Assessment (Crashworthiness, Safety Protocols, ISO Compliance)
       
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/MS.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-- **Thermal & Fluid Systems:**
-    - Thermodynamics, Heat Transfer, and Refrigeration
-    - Pneumatic and Hydraulic Systems Design
-    - Fluid Mechanics, Mechanical Testing & Analysis
-    - HVAC (Heating, Ventilation, and Air Conditioning) Systems
-
-- **Additional Engineering Skills:**
-    - Material Selection and Failure Analysis
-    - Metrology, Instrumentation, and Measurement Techniques
-    - Product Lifecycle Management (PLM)
-    - Manufacturing Process Improvement, Risk Analysis & Mitigation
-
 ***
 
 <div style="display: flex; justify-content: space-between;">
@@ -229,65 +220,47 @@ RAG (Retrieval-Augmented Generation)
 
 ## <span class="animated-text">**Soft Skills:**</span>
 
-- **Communication Skills:**
-    - Clear communication
-    - Active Listening
-    - Interpersonal Skills
-
-- **Collaboration & Teamwork:**
-    - Ability to collaborate and work well within a team
-    - Leadership: Ability to lead, motivate, and guide teams
-    - Conflict Resolution: Skill in managing and resolving conflicts calmly
-
-- **Problem Solving & Critical Thinking:**
-    - Analytical thinking and finding creative solutions
-    - Critical Thinking: Ability to analyze situations and make informed decisions
-    - Creativity: Ability to think outside the box and innovate
-      
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/SS5.webp" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-- **Adaptability & Flexibility:**
-    - Flexibility to manage change and handle multiple tasks
-    - Openness to new ideas and working outside of comfort zones
-
-- **Time Management & Work Ethic:**
-    - Efficient prioritization and handling of tasks
-    - Dedication, responsibility, and reliability in completing tasks
-    - Self-motivation: Working independently with little supervision
+- **Soft Skills:**
+    - Problem-Solving & Critical Thinking (Root Cause Analysis, Innovative Solutions)
+    - Communication & Interpersonal Skills (Team Collaboration, Client Interaction, Technical Presentations)
+    - Leadership & Team Management (Project Leadership, Mentoring, Conflict Resolution)
+    - Time Management & Organization (Task Prioritization, Deadline Management, Multitasking)
 
 ***
 
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/ss6.webp" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
+</div> 
 
 ***
 
-- **Stress Management & Decision Making:**
-    - Maintaining performance under pressure
-    - Evaluating options and making sound choices
-
-- **Negotiation:**
-    - Ability to reach mutually beneficial agreements
-      
-- **Emotional Intelligence & Empathy:**
-    - Awareness and management of emotions in self and others
-    - Understanding and addressing the needs and concerns of others
+  - Adaptability & Flexibility (Adjusting to New Technologies, Working in Dynamic Environments)
+  - Attention to Detail & Accuracy (Precision in Design, Error Detection, Quality Assurance)
+  - Creativity & Innovation (Concept Development, Process Improvement, Design Thinking)
+  - Decision-Making & Risk Management (Evaluating Trade-offs, Analyzing Potential Outcomes)
 
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/SS2.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/MS.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
-  
+  - Collaboration & Cross-Functional Teamwork (Working with Diverse Teams, Cross-Departmental Coordination)
+  - Customer Focus & Client Relationship Management (Customer-Centered Solutions, Active Listening)
+  - Conflict Resolution & Negotiation (Mediating Disagreements, Reaching Consensus)
+  - Self-motivation (Dedication, responsibility, and reliability in completing tasks)
+  - Continuous Learning & Self-Improvement (Staying Updated on Industry Trends, Pursuing Skill Enhancement)
+  - Empathy & Emotional Intelligence (Understanding Team Needs, Building Rapport)
+
+***
+    
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/SS2.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+*** 
+
 ## <span class="animated-text">**Languages skills:**</span>
 
 - English: Working proficiency plus (TOEIC)
@@ -315,6 +288,39 @@ RAG (Retrieval-Augmented Generation)
 
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
+### **Gen AI Project: Generative Search System (Mr.HelpMate AI):**
+Architecting a sophisticated Generative Search System named Mr.HelpMate AI, utilizing advanced Retrieval-Augmented Generation (RAG) techniques and state-of-the-art Hugging Face models. This project integrates cutting-edge frameworks such as LangChain and LlamaIndex to enhance the search experience through dynamic and contextually relevant responses. By combining powerful generative models with retrieval mechanisms, Mr.HelpMate AI aims to provide highly accurate and context-aware search results, enabling users to efficiently find and interact with information across diverse domains. This system leverages the latest advancements in AI to deliver intelligent and responsive search capabilities, transforming how users engage with digital content.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/RAG.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **AI-Driven Melanoma-Detection System:**
+Engineering a state-of-the-art multiclass classification model utilizing a bespoke Convolutional Neural Network (CNN) architecture within TensorFlow to enable automated detection and classification of skin cancer. This project employs advanced deep learning methodologies, including sophisticated feature extraction and hierarchical neural network layers, to discern and differentiate melanoma and other dermatological malignancies with high precision. By integrating cutting-edge image preprocessing techniques and model optimization strategies, the system aims to deliver a highly reliable diagnostic tool that supports dermatologists in early and accurate cancer detection, thereby significantly enhancing clinical decision-making and patient management through automated, real-time analysis.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/CD.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **AI-Driven Telecom Churn Prediction System:**
+Designing a churn prediction model for the telecommunications industry using advanced machine learning techniques. This project focuses on developing and optimizing predictive models to accurately forecast customer attrition, leveraging a range of algorithms including Logistic Regression, Decision Trees, and Random Forests. By systematically evaluating model performance through rigorous metrics and aligning with business objectives, the system aims to identify key predictor variables that contribute to customer churn. The ultimate goal is to implement the most effective model, providing actionable insights to enhance customer retention strategies and drive business growth.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/TL.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
 ### **AI-Driven Gesture Recognition System:**
 Developing a cutting-edge gesture recognition system for smart TVs, leveraging advanced deep learning techniques to enable intuitive, hands-free control. This project involves designing and implementing a robust deep learning model to accurately identify and classify five distinct user gestures from real-time video feeds. Utilizing sophisticated neural network architectures, including convolutional layers for feature extraction and recurrent layers for temporal pattern recognition, the system aims to translate user gestures into TV commands, eliminating the need for a remote control. This innovative approach enhances user experience by providing seamless and interactive control, advancing the usability and functionality of smart home devices.
 
@@ -322,6 +328,38 @@ Developing a cutting-edge gesture recognition system for smart TVs, leveraging a
 
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/CNN.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+### **AI-Driven Automatic Classification System Of Customer Complaints:**
+Developing an intelligent classification system for automating the categorization of customer complaint tickets. This project leverages advanced machine learning techniques to build a solution that accurately identifies and classifies the type of complaint raised by customers from unstructured text data. By employing sophisticated natural language processing (NLP) methods and machine learning algorithms, the system aims to streamline complaint management processes, enhance operational efficiency, and improve response accuracy. The ultimate objective is to enable businesses to swiftly address customer issues and drive better customer satisfaction through automated, precise complaint categorization.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/NER3.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **AI-Driven Stock Price Prediction System:**
+Developed an AI-based stock price prediction system leveraging Long Short-Term Memory (LSTM) neural networks to model and forecast future stock prices based on historical time series data. The system was designed to capture long-term dependencies and trends in financial data using techniques such as data normalization, sliding window for sequence generation, and feature engineering including moving averages and technical indicators. LSTM layers were optimized with dropout regularization and Adam optimizer to prevent overfitting and improve convergence. The model was evaluated using metrics like Mean Squared Error (MSE).
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/STP.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **AI-Driven Telecom Churn Prediction System:**
+Designing a churn prediction model for the telecommunications industry using advanced machine learning techniques. This project focuses on developing and optimizing predictive models to accurately forecast customer attrition, leveraging a range of algorithms including Logistic Regression, Decision Trees, and Random Forests. By systematically evaluating model performance through rigorous metrics and aligning with business objectives, the system aims to identify key predictor variables that contribute to customer churn. The ultimate goal is to implement the most effective model, providing actionable insights to enhance customer retention strategies and drive business growth.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/TL.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
@@ -348,50 +386,6 @@ Designed and implemented a predictive model for house prices using advanced regr
 
 ***
 
-### **AI-Driven Telecom Churn Prediction System:**
-Designing a churn prediction model for the telecommunications industry using advanced machine learning techniques. This project focuses on developing and optimizing predictive models to accurately forecast customer attrition, leveraging a range of algorithms including Logistic Regression, Decision Trees, and Random Forests. By systematically evaluating model performance through rigorous metrics and aligning with business objectives, the system aims to identify key predictor variables that contribute to customer churn. The ultimate goal is to implement the most effective model, providing actionable insights to enhance customer retention strategies and drive business growth.
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/TL.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-### **AI-Driven Melanoma-Detection System:**
-Engineering a state-of-the-art multiclass classification model utilizing a bespoke Convolutional Neural Network (CNN) architecture within TensorFlow to enable automated detection and classification of skin cancer. This project employs advanced deep learning methodologies, including sophisticated feature extraction and hierarchical neural network layers, to discern and differentiate melanoma and other dermatological malignancies with high precision. By integrating cutting-edge image preprocessing techniques and model optimization strategies, the system aims to deliver a highly reliable diagnostic tool that supports dermatologists in early and accurate cancer detection, thereby significantly enhancing clinical decision-making and patient management through automated, real-time analysis.
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/CD.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-### **AI-Driven Custom Entity Detection System In Healthcare Data (NLP):**
-Developing an advanced Named Entity Recognition (NER) system tailored for the healthcare domain. This project focuses on leveraging state-of-the-art machine learning techniques to create a custom NER model designed to accurately extract and categorize medical entities from complex healthcare datasets. The primary goal is to identify and classify entities such as diseases, symptoms, and their corresponding treatments, enabling more efficient data analysis and supporting enhanced clinical decision-making. This AI-driven system significantly aids healthcare professionals, including doctors and medical researchers, by providing precise and actionable insights from vast amounts of unstructured data, ultimately contributing to improved patient outcomes and accelerated medical research.
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/NER.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-### **AI-Driven Automatic Classification System Of Customer Complaints:**
-Developing an intelligent classification system for automating the categorization of customer complaint tickets. This project leverages advanced machine learning techniques to build a solution that accurately identifies and classifies the type of complaint raised by customers from unstructured text data. By employing sophisticated natural language processing (NLP) methods and machine learning algorithms, the system aims to streamline complaint management processes, enhance operational efficiency, and improve response accuracy. The ultimate objective is to enable businesses to swiftly address customer issues and drive better customer satisfaction through automated, precise complaint categorization.
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/NER3.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
 ### **AI-Driven Fake News Detection System:**
 Developing a comprehensive Fake News Detection System employing a diverse array of machine learning models to combat misinformation. This project integrates several advanced classification algorithms, including Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, and Random Forest Classifier, to create a robust and reliable detection framework. By leveraging these diverse models, the system is designed to analyze textual data and identify misleading or false information with high accuracy. The approach incorporates feature engineering, model ensemble techniques, and rigorous evaluation metrics to ensure effective and scalable detection of fake news, contributing to a more informed and trustworthy information ecosystem.
 
@@ -399,17 +393,6 @@ Developing a comprehensive Fake News Detection System employing a diverse array 
 
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/FN.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-### **Gen AI Project: Generative Search System (Mr.HelpMate AI):**
-Architecting a sophisticated Generative Search System named Mr.HelpMate AI, utilizing advanced Retrieval-Augmented Generation (RAG) techniques and state-of-the-art Hugging Face models. This project integrates cutting-edge frameworks such as LangChain and LlamaIndex to enhance the search experience through dynamic and contextually relevant responses. By combining powerful generative models with retrieval mechanisms, Mr.HelpMate AI aims to provide highly accurate and context-aware search results, enabling users to efficiently find and interact with information across diverse domains. This system leverages the latest advancements in AI to deliver intelligent and responsive search capabilities, transforming how users engage with digital content.
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/RAG.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
@@ -443,17 +426,6 @@ Developed an AI-based credit card fraud detection system using machine learning 
 
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/CD2.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-### **AI-Driven Stock Price Prediction System:**
-Developed an AI-based stock price prediction system leveraging Long Short-Term Memory (LSTM) neural networks to model and forecast future stock prices based on historical time series data. The system was designed to capture long-term dependencies and trends in financial data using techniques such as data normalization, sliding window for sequence generation, and feature engineering including moving averages and technical indicators. LSTM layers were optimized with dropout regularization and Adam optimizer to prevent overfitting and improve convergence. The model was evaluated using metrics like Mean Squared Error (MSE).
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/STP.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
