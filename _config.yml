@@ -7,11 +7,13 @@ description: >
       Connect on LinkedIn
     </a>
   </p>
-  <div style="color: black; text-align: center; font-weight: bold; background-color: lightblue;">
+  <div style="color: black; text-align: center; font-weight: bold; background-color: lightblue; padding: 10px;">
     AI Engineer | ML | Deep Learning | NLP | Gen AI | LLM | Python | Mechanical Engineering  
     <br><br>
     
-    <hr style="border: 1px solid black; width: 80%;">
+    <div style="background-color: darkgray; padding: 2px;">
+      <hr style="border: none; height: 2px; background-color: white; width: 80%;">
+    </div>
     
     <br><br>
     <span style="color: darkblue; font-style: italic;">
@@ -20,6 +22,7 @@ description: >
     <br>
     <span style="color: darkred;">― Albert Einstein</span>
   </div>
+
 
 
 
