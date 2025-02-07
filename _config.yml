@@ -7,18 +7,21 @@ description: >
       Connect on LinkedIn
     </a>
   </p>
-  <div style="color: black; text-align: center; font-weight: bold; background-color: lightblue; padding: 10px;">
+
+  <div style="color: black; text-align: center; font-weight: bold; background-color: lightblue; padding: 10px; border-radius: 5px;">
     AI Engineer | ML | Deep Learning | NLP | Gen AI | LLM | Python | Mechanical Engineering  
-    <br><br>
-    
-    <div style="background-color: lightgray; padding: 10px; border-radius: 5px;">
-      <span style="color: darkblue; font-style: italic;">
-        “Education is not the learning of facts, but the training of the mind to think.”
-      </span>
-      <br>
-      <span style="color: darkred;">― Albert Einstein</span>
-    </div>
   </div>
+
+  <br>
+
+  <div style="text-align: center; background-color: lightgray; padding: 10px; border-radius: 5px;">
+    <span style="color: darkblue; font-style: italic;">
+      “Education is not the learning of facts, but the training of the mind to think.”
+    </span>
+    <br>
+    <span style="color: darkred;">― Albert Einstein</span>
+  </div>
+
 
 
 
