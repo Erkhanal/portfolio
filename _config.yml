@@ -3,7 +3,9 @@ logo: "/assets/img/001.jpg"
 description: >
   <p align="center">
     <a href="https://jp.linkedin.com/in/er-shishir-khanal-26b125139" 
-    style="font-size: 16px; color: blue; text-decoration: underline;">
+    style="display: inline-block; padding: 10px 20px; font-size: 16px; 
+    font-weight: bold; color: white; background-color: #0073b1; 
+    text-decoration: none; border-radius: 5px;">
       Connect on LinkedIn
     </a>
   </p>
@@ -21,6 +23,7 @@ description: >
     <br>
     <span style="color: darkred;">― Albert Einstein</span>
   </div>
+
 
 
 
