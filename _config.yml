@@ -1,15 +1,22 @@
-title: "<div style='text-align: center;'><p style='color: black; font-weight: bold;'>Shishir Khanal</p></div>"
-logo: /assets/img/001.jpg
-description: |
+title: "Shishir Khanal"
+logo: "/assets/img/001.jpg"
+description: >
   <p align="center">
-    <a href="https://jp.linkedin.com/in/er-shishir-khanal-26b125139" style="font-size: 16px; color: blue; text-decoration: underline;">Connect on LinkedIn</a>
+    <a href="https://jp.linkedin.com/in/er-shishir-khanal-26b125139" 
+    style="font-size: 16px; color: blue; text-decoration: underline;">
+      Connect on LinkedIn
+    </a>
   </p>
   <div style="color: black; text-align: center; font-weight: bold; background-color: lightblue;">
     AI Engineer, Living in the Future  
     <br><br>
-    “Education is not the learning of facts, but the training of the mind to think.”  
-    ― Albert Einstein  
+    <span style="color: darkblue; font-style: italic;">
+      “Education is not the learning of facts, but the training of the mind to think.”
+    </span>
+    <br>
+    <span style="color: darkred;">― Albert Einstein</span>
   </div>
+
 
 
 
