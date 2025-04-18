@@ -185,7 +185,13 @@ RAG (Retrieval-Augmented Generation)
     - Metrology, Instrumentation, and Measurement Techniques
     - Mechatronics & Control Systems (Sensors, Actuators, Embedded Systems)
     - Project Management & Technical Documentation (DFMEA, Risk Assessment, Compliance)
-           
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/Capture.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
 ***
 
 <div style="display: flex; justify-content: space-between;">
