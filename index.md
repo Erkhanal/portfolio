@@ -189,12 +189,6 @@ RAG (Retrieval-Augmented Generation)
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/Capture.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-<div style="display: flex; justify-content: space-between;">
     <img src="assets/img/MEL.jpg" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
@@ -300,6 +294,12 @@ RAG (Retrieval-Augmented Generation)
 
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/Capture1.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/Capture.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
