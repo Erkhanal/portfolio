@@ -289,6 +289,14 @@ RAG (Retrieval-Augmented Generation)
 - The Smithsonian Entrepreneur Incubator Course, US Embassy
 - Mechanical Design, Solidworks 
 - Engineering and Product Design Processes, Arizona State University
+  
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/Capture1.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
 
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
