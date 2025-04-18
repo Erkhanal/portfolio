@@ -287,7 +287,6 @@ RAG (Retrieval-Augmented Generation)
 - Introduction to Artificial Intelligence (AI), IBM
 - Programming for Everybody (Getting Started with Python), University of Michigan 
 - The Smithsonian Entrepreneur Incubator Course, US Embassy
-- Mechanical Design, Solidworks 
 - Engineering and Product Design Processes, Arizona State University
   
 ***
@@ -296,6 +295,8 @@ RAG (Retrieval-Augmented Generation)
     <img src="assets/img/Capture1.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
+***
+### **Mechanical Design, Solidworks:**
 ***
 
 <div style="display: flex; justify-content: space-between;">
