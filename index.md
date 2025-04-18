@@ -288,9 +288,11 @@ RAG (Retrieval-Augmented Generation)
 - Programming for Everybody (Getting Started with Python), University of Michigan 
 - The Smithsonian Entrepreneur Incubator Course, US Embassy
 - Engineering and Product Design Processes, Arizona State University
-- 
+  
 ***
+
 ### **Mechanical Design, Solidworks:**
+
 ***
 
 <div style="display: flex; justify-content: space-between;">
@@ -298,7 +300,9 @@ RAG (Retrieval-Augmented Generation)
 </div>
 
 ***
+
 ### **AI Literacy Certificate:**
+
 ***
 
 <div style="display: flex; justify-content: space-between;">
