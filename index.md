@@ -301,7 +301,7 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
-### **AI Literacy Certificate:**
+### **AI Literacy:**
 
 ***
 
