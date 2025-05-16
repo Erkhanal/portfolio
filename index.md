@@ -3,35 +3,13 @@ title: Shishir Khanal
 ---
 <style>
   body {
-    background-color: white;
-    color: #000000; /* Dark Black */
+    background-color: lightblue; 
+    color: #000000; 
     text-align: justify;
-    animation: backgroundColorChange 300s linear infinite alternate;
-  }
-
-  @keyframes backgroundColorChange {
-    30% {
-      background-color: lightgreen;
-    }
-    30% {
-      background-color: lightblue; /* Change to the desired background color */
-    }
-  }
-
-  @keyframes fadeInScale {
-    0% {
-      opacity: 0;
-      transform: scale(0.8);
-    }
-    60% {
-      opacity: 1;
-      transform: scale(1);
-      color: green;
-    }
   }
 
   .animated-text {
-    animation: fadeInScale 10s ease;
+    
   }
 
   .centered-blue {
@@ -39,6 +17,7 @@ title: Shishir Khanal
     color: blue;
   }
 </style>
+
 
 ## <span class="animated-text">**Summary:**</span>
 Qualified engineer with a distinct knowledge of engineering, having a strong passion for cutting edge technology and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in AI/ML, deep learning, NLP, Generative AI, LLM, programming languages, MS office, CAD(3D&2D), and Mechanical Engineering.
