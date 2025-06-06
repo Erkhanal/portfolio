@@ -256,6 +256,8 @@ RAG (Retrieval-Augmented Generation)
 ## <span class="animated-text">**Certificates:**</span>
 
 - Certificate for Registered Engineers
+- AI Qualification Certificate by the Japan Deep Learning Association (JDLA)
+- Japan Ministry of Economy, Trade and Industry Observer – DX Promotion Passport1 (AI) by "Di-Lite" Japan
 - The Deep Learning Specialization, DeepLearning.AI 
 - Crash Course on Python, Google 
 - Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
