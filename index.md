@@ -296,6 +296,20 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
+### **AI Qualification Certificate By Japan Deep Learning Association（JDLA）**
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/GT.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/SK.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
 ### **Gen AI Project: Generative Search System (Mr.HelpMate AI):**
