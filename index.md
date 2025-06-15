@@ -312,6 +312,14 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/GB.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
 ### **Gen AI Project: Generative Search System (Mr.HelpMate AI):**
