@@ -301,7 +301,7 @@ RAG (Retrieval-Augmented Generation)
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/GT.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/GTT.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
