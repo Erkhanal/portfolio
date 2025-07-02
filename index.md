@@ -48,7 +48,7 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 ## <span class="animated-text">**Work Experience:**</span>
 
-- System Development and Design Engineer at Tokyo, Japan-(2020 to present)
+- System (AI) Development and Design Engineer at Tokyo, Japan-(2020 to present)
 - Mechanical Engineer at Tata Motors-(2018 to 2019)
 - Internship Engineer at Pepsi-2017
   
