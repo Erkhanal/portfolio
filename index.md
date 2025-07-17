@@ -342,7 +342,7 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
-### **My OpenBadges:**
+### **OpenBadges:**
 
 ***
 
