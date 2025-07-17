@@ -246,7 +246,7 @@ RAG (Retrieval-Augmented Generation)
 ***
 ## <span class="animated-text">**Languages skills:**</span>
 
-- English: Working proficiency plus (TOEIC)
+- English: Working Proficiency Plus (TOEIC)
 - Japanese: Intermediate Level Proficiency (JLPT)
 - Hindi: Intermediate Level Proficiency
 - Nepali: Native or bilingual proficiency
@@ -257,7 +257,8 @@ RAG (Retrieval-Augmented Generation)
 
 - Certificate for Registered Engineers
 - AI Qualification Certificate by the Japan Deep Learning Association (JDLA)
-- Japan Ministry of Economy, Trade and Industry Observer – DX Promotion Passport1 (AI) by "Di-Lite" Japan
+- Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by "Di-Lite" Japan
+- Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan
 - The Deep Learning Specialization, DeepLearning.AI 
 - Crash Course on Python, Google 
 - Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
@@ -328,6 +329,15 @@ RAG (Retrieval-Augmented Generation)
 ***
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/AI.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **Generative AI Passport By Generative AI Utilization Promotion Association (GUGA), Japan**
+
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/GenAI.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
