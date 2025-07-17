@@ -355,6 +355,13 @@ RAG (Retrieval-Augmented Generation)
   </div>
 
   <div style="text-align: center;">
+    <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/UGw2ZUx3YndOUDBzMDJVWTZ2NVhzUT09">
+      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gugatest.png" alt="GUGA Badge" width="80" />
+      <div><strong>Click Here for Details</strong></div>
+    </a>
+  </div>  
+
+  <div style="text-align: center;">
     <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dlpCN1Y5NmFDK0VpdE55bG9wVGJFQT09">
       <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gentest.png" alt="JDLA Badge" width="80" />
       <div><strong>Click Here for Details</strong></div>
