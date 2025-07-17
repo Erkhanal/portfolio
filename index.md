@@ -346,24 +346,24 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
-<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 30px; flex-wrap: nowrap; align-items: center; overflow-x: auto;">
   <div style="text-align: center;">
     <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cGpUd0ttTTlVZnM2VUJWTDMvY2FqZz09">
-      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gtest.png" alt="JDLA Badge" width="100" />
+      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gtest.png" alt="JDLA Badge" width="80" />
       <div><strong>Click Here for Details</strong></div>
     </a>
   </div>
 
   <div style="text-align: center;">
     <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dlpCN1Y5NmFDK0VpdE55bG9wVGJFQT09">
-      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gentest.png" alt="JDLA Badge" width="100" />
+      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gentest.png" alt="JDLA Badge" width="80" />
       <div><strong>Click Here for Details</strong></div>
     </a>
   </div>
 
   <div style="text-align: center;">
     <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/emtEZng1R1lwZlVjM0E0U0FBU0Iwdz09">
-      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/DXtest.png" alt="Di-Lite-AI Badge" width="100" />
+      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/DXtest.png" alt="Di-Lite-AI Badge" width="80" />
       <div><strong>Click Here for Details</strong></div>
     </a>
   </div>
