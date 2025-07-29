@@ -54,7 +54,7 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
   
 ***  
 
-## <span class="animated-text">**AI-Related Skills:**</span>
+## <span class="animated-text">**AI-Related Technical Knowledge:**</span>
 
 - **Machine Learning:**
     - Machine learning algorithms and techniques, including Regression (Linear, Logistic, Polynomial, Ridge and Lasso Regression), Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors, Gradient Boosting), Clustering (K-Means, Hierarchical Clustering, DBSCAN, Gaussian Mixture Models)
@@ -149,7 +149,7 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
-## <span class="animated-text">**Mechanical Engineering-Related Skills:**</span>
+## <span class="animated-text">**Mechanical Engineering-Related Technical Knowledge:**</span>
 
 - **Mechanical Engineering:**
     - Mechanical Design & Product Development, proficiency in SolidWorks, CATIA, ANSYS, and AutoCAD (2D & 3D)
