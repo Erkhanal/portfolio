@@ -283,7 +283,7 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
-### **AI Literacy:**
+### **AI Literacy: Ranked in the top 1%**
 
 ***
 
