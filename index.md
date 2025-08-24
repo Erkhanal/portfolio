@@ -247,7 +247,7 @@ RAG (Retrieval-Augmented Generation)
 ## <span class="animated-text">**Languages skills:**</span>
 
 - English: Working Proficiency Plus (TOEIC)
-- Japanese: Intermediate Level Proficiency (JLPT)
+- Japanese: Business Level Proficiency (JLPT)
 - Hindi: Intermediate Level Proficiency
 - Nepali: Native or bilingual proficiency
   
