@@ -259,6 +259,7 @@ RAG (Retrieval-Augmented Generation)
 - AI Qualification Certificate by the Japan Deep Learning Association (JDLA)
 - Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by "Di-Lite" Japan
 - Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan
+- AI Literacy Exam: Ranked in the Top 1%, GUGA, Japan
 - The Deep Learning Specialization, DeepLearning.AI 
 - Crash Course on Python, Google 
 - Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
@@ -283,7 +284,7 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
-### **AI Literacy: Ranked in the top 1%**
+### **AI Literacy Exam (Japan): Ranked in the Top 1%**
 
 ***
 
