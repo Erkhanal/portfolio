@@ -52,7 +52,141 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 - Mechanical Engineer at Tata Motors-(2018 to 2019)
 - Internship Engineer at Pepsi-2017
   
+*** 
+
+## <span class="animated-text">**Languages:**</span>
+
+- English: Working Proficiency Plus (TOEIC)
+- Japanese: Intermediate Level Proficiency (JLPT)
+- Hindi: Intermediate Level Proficiency
+- Nepali: Native or bilingual proficiency
+  
 ***  
+
+## <span class="animated-text">**Certificates:**</span>
+
+- Certificate for Registered Engineers
+- AI Qualification Certificate by the Japan Deep Learning Association (JDLA)
+- Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by "Di-Lite" Japan
+- Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan
+- The Deep Learning Specialization, DeepLearning.AI 
+- Crash Course on Python, Google 
+- Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
+- Neural Networks and Deep Learning, DeepLearning.AI
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, DeepLearning.AI
+- Convolutional Neural Networks, DeepLearning.AI
+- Sequence Models, DeepLearning.AI
+- Introduction to Artificial Intelligence (AI), IBM
+- Programming for Everybody (Getting Started with Python), University of Michigan 
+- The Smithsonian Entrepreneur Incubator Course, US Embassy
+- Engineering and Product Design Processes, Arizona State University
+  
+***
+
+### **Mechanical Design, Solidworks:**
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/Capture.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **AI Literacy:**
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/Capture1.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/GUGA.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **AI Qualification Certificate By Japan Deep Learning Association（JDLA）**
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/GTT.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/SK.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+***
+
+### **Generative AI Qualification Certificate By Japan Deep Learning Association（JDLA）**
+
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/Gen AI.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **DX Qualification Certificate By Digital Literacy Council, Japan**
+
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/AI.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **Generative AI Passport By Generative AI Utilization Promotion Association (GUGA), Japan**
+
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/GenAI.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **OpenBadges:**
+
+***
+
+<div style="display: flex; gap: 30px; flex-wrap: nowrap; align-items: center; overflow-x: auto;">
+  <div style="text-align: center;">
+    <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cGpUd0ttTTlVZnM2VUJWTDMvY2FqZz09">
+      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gtest.png" alt="JDLA Badge" width="80" />
+      <div><strong>Click Here for Details</strong></div>
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/UGw2ZUx3YndOUDBzMDJVWTZ2NVhzUT09">
+      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gugatest.png" alt="GUGA Badge" width="80" />
+      <div><strong>Click Here for Details</strong></div>
+    </a>
+  </div>  
+
+  <div style="text-align: center;">
+    <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dlpCN1Y5NmFDK0VpdE55bG9wVGJFQT09">
+      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gentest.png" alt="JDLA Badge" width="80" />
+      <div><strong>Click Here for Details</strong></div>
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/emtEZng1R1lwZlVjM0E0U0FBU0Iwdz09">
+      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/DXtest.png" alt="Di-Lite-AI Badge" width="80" />
+      <div><strong>Click Here for Details</strong></div>
+    </a>
+  </div>
+</div>
+
+***
 
 ## <span class="animated-text">**AI-Related Technical Knowledge:**</span>
 
@@ -242,140 +376,6 @@ RAG (Retrieval-Augmented Generation)
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/MS.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
-
-***
-## <span class="animated-text">**Languages skills:**</span>
-
-- English: Working Proficiency Plus (TOEIC)
-- Japanese: Intermediate Level Proficiency (JLPT)
-- Hindi: Intermediate Level Proficiency
-- Nepali: Native or bilingual proficiency
-  
-***  
-
-## <span class="animated-text">**Certificates:**</span>
-
-- Certificate for Registered Engineers
-- AI Qualification Certificate by the Japan Deep Learning Association (JDLA)
-- Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by "Di-Lite" Japan
-- Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan
-- The Deep Learning Specialization, DeepLearning.AI 
-- Crash Course on Python, Google 
-- Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
-- Neural Networks and Deep Learning, DeepLearning.AI
-- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, DeepLearning.AI
-- Convolutional Neural Networks, DeepLearning.AI
-- Sequence Models, DeepLearning.AI
-- Introduction to Artificial Intelligence (AI), IBM
-- Programming for Everybody (Getting Started with Python), University of Michigan 
-- The Smithsonian Entrepreneur Incubator Course, US Embassy
-- Engineering and Product Design Processes, Arizona State University
-  
-***
-
-### **Mechanical Design, Solidworks:**
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/Capture.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-### **AI Literacy:**
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/Capture1.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/GUGA.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-### **AI Qualification Certificate By Japan Deep Learning Association（JDLA）**
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/GTT.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/SK.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-***
-
-### **Generative AI Qualification Certificate By Japan Deep Learning Association（JDLA）**
-
-***
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/Gen AI.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-### **DX Qualification Certificate By Digital Literacy Council, Japan**
-
-***
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/AI.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-### **Generative AI Passport By Generative AI Utilization Promotion Association (GUGA), Japan**
-
-***
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/GenAI.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-### **OpenBadges:**
-
-***
-
-<div style="display: flex; gap: 30px; flex-wrap: nowrap; align-items: center; overflow-x: auto;">
-  <div style="text-align: center;">
-    <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cGpUd0ttTTlVZnM2VUJWTDMvY2FqZz09">
-      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gtest.png" alt="JDLA Badge" width="80" />
-      <div><strong>Click Here for Details</strong></div>
-    </a>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/UGw2ZUx3YndOUDBzMDJVWTZ2NVhzUT09">
-      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gugatest.png" alt="GUGA Badge" width="80" />
-      <div><strong>Click Here for Details</strong></div>
-    </a>
-  </div>  
-
-  <div style="text-align: center;">
-    <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dlpCN1Y5NmFDK0VpdE55bG9wVGJFQT09">
-      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gentest.png" alt="JDLA Badge" width="80" />
-      <div><strong>Click Here for Details</strong></div>
-    </a>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/emtEZng1R1lwZlVjM0E0U0FBU0Iwdz09">
-      <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/DXtest.png" alt="Di-Lite-AI Badge" width="80" />
-      <div><strong>Click Here for Details</strong></div>
-    </a>
-  </div>
-</div>
-
 
 ***
 
