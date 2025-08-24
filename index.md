@@ -40,12 +40,6 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 ***
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/G1.JPG" alt="Image 2" style="width: 600px; height: 350px; object-fit: cover;">
-</div>
-
-***
-
 ## <span class="animated-text">**Work Experience:**</span>
 
 - System (AI) Development and Design Engineer at Tokyo, Japan-(2020 to present)
@@ -120,8 +114,6 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/SK.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
-
-***
 
 ***
 
