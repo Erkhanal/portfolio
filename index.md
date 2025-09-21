@@ -343,6 +343,15 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
+### **Japanese Language Proficiency Test (JLPT-N2)**
+
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/JLPTN2.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
 ### **OpenBadges:**
 
 ***
