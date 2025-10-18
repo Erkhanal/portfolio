@@ -54,7 +54,8 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
   
 ***  
  
- <!--
+<!--
+ 
 ## <span class="animated-text">**AI-Related Technical Knowledge:**</span>
 
 - **Machine Learning:**
@@ -245,6 +246,7 @@ RAG (Retrieval-Augmented Generation)
 </div>
 
 ***
+
 -->
 
 ## <span class="animated-text">**Languages skills:**</span>
