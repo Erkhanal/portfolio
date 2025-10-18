@@ -27,13 +27,13 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
 
 - **Master’s Degree in Engineering, USA**
-    - Mathematical and Computational Modeling  • Data Visualization and Analysis • Machine Learning  • Deep Learning • Stochastic Modeling • Derivative Pricing <!--• Python Programming-->  • Portfolio Management  • Organization and Project Management • Risk Management <!-- • Marketing, Finance, Accounting, and Human resources (HR) --> • Master Thesis 
+    - Mathematical and Computational Modeling  • Data Visualization and Analysis • Machine Learning  • Deep Learning • Stochastic Modeling • Derivative Pricing • Econometrics  • Portfolio Management  • Organization and Project Management • Risk Management <!-- • Marketing, Finance, Accounting, and Human resources (HR) --> • Master Thesis 
       
 - **Master’s Degree in Artificial Intelligence (AI), UK**
-  - Mathematics and Statistics • Machine Learning  • Deep Learning   <!--• Computer Vision-->  • Natural Language Processing (NLP)   <!--• Reinforcement Learning--> • Generative AI  <!--• LLM  -->• Master Thesis
+  - Mathematics and Statistics • Machine Learning  • Deep Learning   <!--• Computer Vision-->  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
       
 - **Executive Post Graduate in Machine Learning & Artificial Intelligence, India**
-  - Python Programming  • Statistics and Probability  • Data Analysis using SQL and Excel  • Data Visualisation  • Machine Learning  • Deep Learning  • Computer Vision • Natural Language Processing (NLP)  • Reinforcement Learning  • Generative AI  <!--•• LLM --> • Capstone Project 
+  - Python Programming  • Statistics and Probability  • Data Visualisation and Analysis • Machine Learning  • Deep Learning  • Computer Vision • Natural Language Processing (NLP)  • Generative AI  <!--•• LLM --> • Capstone Project 
  
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
   - Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • Engineering Drawing and CAD  • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Engineering Physics • Engineering Chemistry • Engineering Economics • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Engineering and Management • Engineering Professional Ethics • Project Report    
@@ -53,8 +53,6 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 - Internship Engineer at Pepsi-2017
   
 ***  
- 
-<!--
  
 ## <span class="animated-text">**AI-Related Technical Knowledge:**</span>
 
@@ -154,31 +152,28 @@ RAG (Retrieval-Augmented Generation)
 ## <span class="animated-text">**Mechanical Engineering-Related Technical Knowledge:**</span>
 
 - **Mechanical Engineering:**
-    - Mechanical Design & Product Development, proficiency in SolidWorks, CATIA, ANSYS, and AutoCAD (2D & 3D)
-    - Structural Analysis & FEA (Stress Analysis, Fatigue, Thermal Analysis)
-    - Thermodynamics & Heat Transfer (HVAC, Heat Exchangers, Cooling Systems)
-    - Fluid Mechanics & Hydraulics (CFD, Pumps, Compressors, Pipeline Systems)
-    - Manufacturing & Production Engineering (CNC Machining, Casting, Welding, Additive Manufacturing)
-    - Materials Science & Metallurgy (Material Selection, Failure Analysis, Surface Treatments)
-    - Pneumatic & Hydraulic Systems (Braking, Steering, Actuators, Fluid Power)
-    - Kinematics & Dynamics of Machines (Vibration Analysis, Mechanism Design, Motion Simulation)
-    - Quality Assurance & Control (ISO Standards, Six Sigma, Lean Manufacturing)
+    - Mechanical Design & Product Development, proficiency in SolidWorks and AutoCAD (2D & 3D)
+    - Thermodynamics & Heat Transfer 
+    - Fluid Mechanics & Hydraulics 
+    - Manufacturing & Production Engineering 
+    - Materials Science & Metallurgy 
+    - Kinematics & Dynamics of Machines 
     - Metrology, Instrumentation, and Measurement Techniques
-    - Mechatronics & Control Systems (Sensors, Actuators, Embedded Systems)
-    - Project Management & Technical Documentation (DFMEA, Risk Assessment, Compliance)
+    - Mechatronics & Control Systems 
+    - Project Management & Technical Documentation 
 
 ***
-
+<!--
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/MEL.jpg" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
+-->
 
 - **Automotive Engineering & Vehicle Technologies:**
     - Automotive Design & Powertrain Engineering (IC Engines, Transmissions, EV Powertrains)
     - Diagnostics, Repair & Maintenance (Fault Detection, Troubleshooting, Preventive Maintenance)
-    - Chassis, Suspension & Drivetrain (Multi-Link, Air Suspension, Adaptive Damping)
     - Tire Dynamics & Wheel Alignment (TPMS, Wear Analysis, Performance Optimization)
     - Battery & High-Voltage EV Systems (Charging, BMS, Thermal Management)
     - Electrical & Electronics Systems (ECUs, CAN Bus, ADAS, Wiring Harness)
@@ -193,11 +188,15 @@ RAG (Retrieval-Augmented Generation)
       
 ***
 
+<!--
+
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/C.JPG" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
+
+-->
 
 ## <span class="animated-text">**Soft Skills:**</span>
 
@@ -246,8 +245,6 @@ RAG (Retrieval-Augmented Generation)
 </div>
 
 ***
-
--->
 
 ## <span class="animated-text">**Languages skills:**</span>
 
