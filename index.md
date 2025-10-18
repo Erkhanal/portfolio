@@ -27,16 +27,16 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
 
 - **Master’s Degree in Engineering, USA**
-    - Mathematical and Computational Modeling  • Data Visualization and Analysis  • Stochastic Modeling • Derivative Pricing • Python Programming  • Machine Learning  • Deep Learning  • Portfolio Management  • Organization and project management • Risk Management  • Marketing, Finance, Accounting, and Human resources (HR)  • Master Thesis 
+    - Mathematical and Computational Modeling  • Data Visualization and Analysis • Machine Learning  • Deep Learning • Stochastic Modeling • Derivative Pricing <!--• Python Programming-->  • Portfolio Management  • Organization and Project Management • Risk Management <!-- • Marketing, Finance, Accounting, and Human resources (HR) --> • Master Thesis 
       
 - **Master’s Degree in Artificial Intelligence (AI), UK**
-  - Statistics and EDA  • Machine Learning  • Deep Learning  • Computer Vision  • Natural Language Processing (NLP)  • Reinforcement Learning • Generative AI  • LLM  • Master Thesis
+  - Mathematics and Statistics • Machine Learning  • Deep Learning   <!--• Computer Vision-->  • Natural Language Processing (NLP)   <!--• Reinforcement Learning--> • Generative AI  <!--• LLM  -->• Master Thesis
       
 - **Executive Post Graduate in Machine Learning & Artificial Intelligence, India**
-  - Python Programming  • Mathematics for AI/ML  • Statistics and Exploratory Data Analytics  • Data Analysis using SQL and Excel  • Data Visualisation  • Machine Learning  • Deep Learning  • Computer Vision • Natural Language Processing (NLP)  • Reinforcement Learning  • Generative AI  • LLM  • Capstone  
+  - Python Programming  • Statistics and Probability  • Data Analysis using SQL and Excel  • Data Visualisation  • Machine Learning  • Deep Learning  • Computer Vision • Natural Language Processing (NLP)  • Reinforcement Learning  • Generative AI  <!--•• LLM --> • Capstone Project 
  
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
-  - Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • CAD • Engineering Drawing • Project Engineering and Management • Engineering Professional Ethics • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Engineering Physics • Engineering Chemistry • Engineering Economics • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Work    
+  - Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • Engineering Drawing and CAD  • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Engineering Physics • Engineering Chemistry • Engineering Economics • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Engineering and Management • Engineering Professional Ethics • Project Report    
 
 ***
 
@@ -53,7 +53,7 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 - Internship Engineer at Pepsi-2017
   
 ***  
-
+ <!--•
 ## <span class="animated-text">**AI-Related Technical Knowledge:**</span>
 
 - **Machine Learning:**
@@ -244,22 +244,24 @@ RAG (Retrieval-Augmented Generation)
 </div>
 
 ***
+-->
+
 ## <span class="animated-text">**Languages skills:**</span>
 
-- English: Working Proficiency Plus (TOEIC Certified)
+- English: Business Level Proficiency (TOEIC Certified)
 - Japanese: Business Level Proficiency (JLPT-N2 Certified)
 - Hindi: Intermediate Level Proficiency
 - Nepali: Native or bilingual proficiency
   
 ***  
 
-## <span class="animated-text">**Certificates:**</span>
+## <span class="animated-text">**Licenses & Certifications:**</span>
 
 - Certificate for Registered Engineers
 - AI Qualification Certificate by the Japan Deep Learning Association (JDLA)
 - Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by "Di-Lite" Japan
 - Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan
-- AI Literacy Exam: Ranked in the Top 1%, GUGA, Japan
+- Generative AI Literacy Assessment Competition, GUGA, Japan
 - The Deep Learning Specialization, DeepLearning.AI 
 - Crash Course on Python, Google 
 - Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
@@ -284,7 +286,7 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
-### **AI Literacy Exam (Japan): Ranked in the Top 1%**
+### ** Generative AI Literacy Assessment Competition (Japan): Ranked in the Top 1%**
 
 ***
 
