@@ -53,7 +53,8 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 - Internship Engineer at Pepsi-2017
   
 ***  
- <!--•
+ 
+ <!--
 ## <span class="animated-text">**AI-Related Technical Knowledge:**</span>
 
 - **Machine Learning:**
