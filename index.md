@@ -27,16 +27,16 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
 
 - **Master’s Degree in Engineering, USA**
-    - Mathematical and Computational Modeling  • Data Visualization and Analysis • Machine Learning  • Deep Learning • Stochastic Modeling • Derivative Pricing • Econometrics  • Portfolio Management  • Organization and Project Management • Risk Management <!-- • Marketing, Finance, Accounting, and Human resources (HR) --> • Master Thesis 
+    - **Curriculum included:** • Mathematical and Computational Modeling • Machine Learning  • Deep Learning • Stochastic Modeling • Derivative Pricing • Econometrics  • Portfolio Management  • Organization and Project Management • Risk Management <!-- • Marketing, Finance, Accounting, and Human resources (HR) --> • Master Thesis 
       
 - **Master’s Degree in Artificial Intelligence (AI), UK**
-  - Mathematics and Statistics • Machine Learning  • Deep Learning   <!--• Computer Vision-->  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
+  - **Curriculum included:** • Mathematics and Statistics • Machine Learning  • Deep Learning   <!--• Computer Vision-->  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
       
 - **Executive Post Graduate in Machine Learning & Artificial Intelligence, India**
-  - Python Programming  • Statistics and Probability  • Data Visualisation and Analysis • Machine Learning  • Deep Learning  • Computer Vision • Natural Language Processing (NLP)  • Generative AI  <!--•• LLM --> • Capstone Project 
+  - **Curriculum included:** • Python Programming  • Statistics and Probability  • Data Visualisation and Analysis • Machine Learning  • Deep Learning  • Computer Vision • Natural Language Processing (NLP)  • Generative AI  <!--•• LLM --> • Capstone Project 
  
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
-  - Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • Engineering Drawing and CAD  • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Engineering Physics • Engineering Chemistry • Engineering Economics • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Engineering and Management • Engineering Professional Ethics • Project Report    
+  - **Curriculum included:** • Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • Engineering Drawing and CAD  • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Engineering Physics • Engineering Chemistry • Engineering Economics • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Engineering and Management • Engineering Professional Ethics • Project Report    
 
 ***
 
