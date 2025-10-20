@@ -576,7 +576,7 @@ The flywheel design was performed in Solidworks, magnetic simulation was perform
 ***
 
 ### **Conclusion:**
-The performance of the bicycle was found to be increased significantly after implementation of the magnetic flywheel. Thus, the detail study on this project has led to the need of more research and can be developed as one of means of green energy.
+In conclusion, the implementation of the magnetic flywheel significantly enhanced the performance of the bicycle, demonstrating its potential to improve energy efficiency. This research underscores the promising future applications of this technology, suggesting that further studies are essential to fully explore its potential as a sustainable energy solution. The findings advocate for continued development of magnetic flywheel systems, which could ultimately serve as a viable contribution to green energy initiatives.
 
 ***
 
