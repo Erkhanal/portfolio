@@ -286,7 +286,7 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
-### ** Generative AI Literacy Assessment Competition (Japan): Ranked in the Top 1%**
+### **Generative AI Literacy Assessment Competition (Japan): Ranked in the Top 1%**
 
 ***
 
