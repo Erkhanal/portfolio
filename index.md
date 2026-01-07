@@ -27,7 +27,7 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
 
 - **Master’s Degree in Engineering, USA**
-    - **Curriculum included:** • Mathematical and Computational Modeling • Machine Learning  • Deep Learning • Stochastic Modeling • Derivative Pricing • Econometrics  • Portfolio Management  • Organization and Project Management • Risk Management <!-- • Marketing, Finance, Accounting, and Human resources (HR) --> • Master Thesis 
+    - **Curriculum included:** • Mathematical and Computational Modeling • Machine Learning  • Deep Learning • Stochastic Modeling • Derivative Pricing • Econometrics  • Portfolio Management  • Organization and Project Management • Risk Management <!-- • Marketing, Finance, Accounting, and Human resources (HR)  • Master Thesis -->• Master’s Project Report
       
 - **Master’s Degree in Artificial Intelligence (AI), UK**
   - **Curriculum included:** • Mathematics and Statistics • Machine Learning  • Deep Learning   <!--• Computer Vision-->  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
@@ -48,7 +48,7 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 ## <span class="animated-text">**Work Experience:**</span>
 
-- System Development • AI Engineer at Tokyo, Japan-(2020 to present)
+- AI Engineer at Tokyo, Japan-(2020 to present)
 - Mechanical Engineer at Tata Motors-(2018 to 2019)
 - Internship Engineer at Pepsi-2017
   
@@ -258,10 +258,12 @@ RAG (Retrieval-Augmented Generation)
 ## <span class="animated-text">**Licenses & Certifications:**</span>
 
 - Certificate for Registered Engineers
-- AI Qualification Certificate by the Japan Deep Learning Association (JDLA)
+- AI Engineer Qualification Certificate (Japan Deep Learning Association, Certified by exam, with 94%)
+- Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan, Certified by Exam with 92%
 - Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by "Di-Lite" Japan
-- Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan
-- Generative AI Literacy Assessment Competition, GUGA, Japan
+- Generative AI Qualification Certificate (JDLA, Certified by Exam)
+- Generative AI Literacy Assessment Competition, GUGA, Japan, Top Ranked (Certified by Exam)
+- Professional Mechanical Design (SolidWorks, Certified by Exam)
 - The Deep Learning Specialization, DeepLearning.AI 
 - Crash Course on Python, Google 
 - Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
@@ -276,6 +278,7 @@ RAG (Retrieval-Augmented Generation)
   
 ***
 
+<!--
 ### **Mechanical Design, Solidworks:**
 
 ***
@@ -379,8 +382,8 @@ RAG (Retrieval-Augmented Generation)
   </div>
 </div>
 
-
 ***
+-->
 
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
