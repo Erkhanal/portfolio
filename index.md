@@ -20,7 +20,7 @@ title: Shishir Khanal
 
 
 ## <span class="animated-text">**Summary:**</span>
-An interdisciplinary engineer with a solid foundation in engineering, artificial intelligence (AI), and data science, backed by a diverse academic background across the USA, UK, India, and Nepal. Experienced in engineering, research, AI-driven projects, financial modeling, mechanical design, and system development, coupled with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in AI/ML, deep learning, NLP, generative AI, large language models (LLMs), programming languages, MS Office, CAD (3D & 2D), and mechanical engineering.
+An interdisciplinary engineer with a solid foundation in engineering, artificial intelligence (AI), and data science, backed by a diverse academic background including the USA and UK. Experienced in engineering, research, AI-driven projects, financial modeling, mechanical design, and system development, coupled with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in AI/ML, deep learning, NLP, generative AI, large language models (LLMs), programming languages, MS Office, CAD (3D & 2D), and mechanical engineering.
 
 ***
 
@@ -30,10 +30,10 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
     - **Curriculum included:** • Mathematical and Computational Modeling • Machine Learning  • Deep Learning • Stochastic Modeling • Derivative Pricing • Econometrics  • Portfolio Management  • Organization and Project Management • Risk Management <!-- • Marketing, Finance, Accounting, and Human resources (HR)  • Master Thesis -->• Master’s Project Report
       
 - **Master’s Degree in Artificial Intelligence (AI), UK**
-  - **Curriculum included:** • Mathematics and Statistics • Machine Learning  • Deep Learning   <!--• Computer Vision-->  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
+  - **Curriculum included:** • Mathematics and Statistics • Machine Learning  • Deep Learning   • Computer Vision  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
       
-- **Executive Post Graduate in Machine Learning & Artificial Intelligence, India**
-  - **Curriculum included:** • Python Programming  • Statistics and Probability  • Data Visualisation and Analysis • Machine Learning  • Deep Learning  • Computer Vision • Natural Language Processing (NLP)  • Generative AI  <!--•• LLM --> • Capstone Project 
+- **Executive Post Graduate in ML/AI (Generative AI Specialization)**
+  - **Curriculum included:** • Python Programming  • Statistics and Probability  • Data Visualisation and Analysis • Machine Learning  • Deep Learning  <!--• Computer Vision--> • Natural Language Processing (NLP)  • Generative AI  • Large Language Model (LLM) • Capstone Project 
  
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
   - **Curriculum included:** • Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • Engineering Drawing and CAD  • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Engineering Physics • Engineering Chemistry • Engineering Economics • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Engineering and Management • Engineering Professional Ethics • Project Report    
