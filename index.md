@@ -32,7 +32,7 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 - **Master’s Degree in Artificial Intelligence (AI), UK**
   - **Curriculum included:** • Mathematics and Statistics • Machine Learning  • Deep Learning   • Computer Vision  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
       
-- **Executive Post Graduate in ML/AI (Generative AI Specialization)**
+- **Executive Post Graduate in ML/AI, (Generative AI Specialization)**
   - **Curriculum included:** • Python Programming  • Statistics and Probability  • Data Visualisation and Analysis • Machine Learning  • Deep Learning  <!--• Computer Vision--> • Natural Language Processing (NLP)  • Generative AI  • Large Language Model (LLM) • Capstone Project 
  
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
@@ -53,7 +53,8 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 - Internship Engineer at Pepsi-2017
   
 ***  
- 
+
+<!--
 ## <span class="animated-text">**AI-Related Technical Knowledge:**</span>
 
 - **Machine Learning:**
@@ -163,13 +164,11 @@ RAG (Retrieval-Augmented Generation)
     - Project Management & Technical Documentation 
 
 ***
-<!--
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/MEL.jpg" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
--->
 
 - **Automotive Engineering & Vehicle Technologies:**
     - Automotive Design & Powertrain Engineering (IC Engines, Transmissions, EV Powertrains)
@@ -188,7 +187,7 @@ RAG (Retrieval-Augmented Generation)
       
 ***
 
-<!--
+
 
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/C.JPG" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
@@ -196,7 +195,7 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 
--->
+
 
 ## <span class="animated-text">**Soft Skills:**</span>
 
@@ -245,6 +244,7 @@ RAG (Retrieval-Augmented Generation)
 </div>
 
 ***
+-->
 
 ## <span class="animated-text">**Languages skills:**</span>
 
@@ -277,6 +277,7 @@ RAG (Retrieval-Augmented Generation)
 - Engineering and Product Design Processes, Arizona State University
   
 ***
+
 
 <!--
 ### **Mechanical Design, Solidworks:**
