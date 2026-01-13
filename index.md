@@ -46,7 +46,7 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
     <details>
-    <summary><strong>View Curriculum</strong></summary>
+    <summary><em>View Curriculum</em></summary>
     • Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • Engineering Drawing and CAD  • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Engineering Physics • Engineering Chemistry • Engineering Economics • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Engineering and Management • Engineering Professional Ethics • Project Report    
     </details>
 
