@@ -30,6 +30,7 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
     <details>
     <summary><em>View Curriculum</em></summary>
     • Mathematical and Computational Modeling • Machine Learning • Deep Learning • Stochastic Modeling • Derivative Pricing • Econometrics • Portfolio Management • Organization and Project Management • Risk Management • Master’s Project Report
+      <br>
     </details>
 
 - **Master’s Degree in Artificial Intelligence (AI), UK**
