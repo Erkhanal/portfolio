@@ -31,21 +31,18 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
     <summary><em>View Curriculum</em></summary>
     • Mathematical and Computational Modeling • Machine Learning • Deep Learning • Stochastic Modeling • Derivative Pricing • Econometrics • Portfolio Management • Organization and Project Management • Risk Management • Master’s Project Report
     </details>
-<br>
 
 - **Master’s Degree in Artificial Intelligence (AI), UK**
     <details>
     <summary><em>View Curriculum</em></summary>
     • Mathematics and Statistics • Machine Learning  • Deep Learning   • Computer Vision  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
     </details>
-<br>  
 
 - **Executive Postgraduate Degree with Generative AI Specialization**
     <details>
     <summary><em>View Curriculum</em></summary>
     • Python Programming  • Statistics and Probability  • Data Visualisation and Analysis • Machine Learning  • Deep Learning  <!--• Computer Vision--> • Natural Language Processing (NLP)  • Generative AI  • Large Language Model (LLM) • Capstone Project
     </details>
-<br> 
 
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
     <details>
