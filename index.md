@@ -72,8 +72,8 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 ## <span class="animated-text">**Work Experience:**</span>
 
-- AI Engineer at Tokyo, Japan-(2020 to present)
-- Mechanical Engineer at Tata Motors-(2018 to 2019)
+- AI Engineer at Tokyo, Japan - (2020 to present)
+- Mechanical Engineer at Tata Motors - (2018 to 2019)
 - Internship Engineer at Pepsi-2017
 
 <!--
@@ -272,13 +272,18 @@ RAG (Retrieval-Augmented Generation)
 
 ## <span class="animated-text">**Licenses & Certifications:**</span>
 
-- Certificate for Registered Engineers
-- AI Engineer Qualification Certificate (Japan Deep Learning Association, Certified by exam, with 94%)
-- Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan, Certified by Exam with 92%
-- Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by "Di-Lite" Japan
-- Generative AI Qualification Certificate (JDLA, Certified by Exam)
+- Certificate for Registered Engineers - 2018
+- AI Qualification Certificate by the Japan Deep Learning Association (JDLA), Certified by exam, with 94% - 2025
+- Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan, Certified by Exam with 92% - 2025
+- Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by “Di-Lite” Japan -2025
 - Generative AI Literacy Assessment Competition, GUGA, Japan, Top Ranked out of 2,221 (Certified by Exam)
-- Professional Mechanical Design (SolidWorks, Certified by Exam)
+- Generative AI Qualification Certificate by the Japan Deep Learning Association (JDLA) - 2025
+- Professional Mechanical Design, Solidworks -2023
+  
+*** 
+
+## <span class="animated-text">**Skill Development Courses:**</span>
+
 - The Deep Learning Specialization, DeepLearning.AI 
 - Crash Course on Python, Google 
 - Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
