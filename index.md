@@ -39,19 +39,20 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
   - **Curriculum included:** • Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • Engineering Drawing and CAD  • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Engineering Physics • Engineering Chemistry • Engineering Economics • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Engineering and Management • Engineering Professional Ethics • Project Report    
 
 ***
-
+<!--
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/G1.JPG" alt="Image 2" style="width: 600px; height: 350px; object-fit: cover;">
 </div>
 
 ***
+-->
 
 ## <span class="animated-text">**Selective Skills:**</span>
 
 - **Research & Analysis:** Experience in reading, analyzing, and writing research papers, gathering information, and reviewing publications.
 - **AI & Machine Learning:** Proficient in AI, machine learning, and deep learning algorithms, including regression analysis, classification, clustering, and neural networks.
 - **NLP & Generative AI:** Knowledge and hands-on experience with NLP, generative AI, LLMs, RAG, OpenAI, ChatGPT API, DeepSeek, BERT, Gemini, Hugging Face, Transformers, LlamaIndex, and LangChain.
-- Data Science & Analytics: Skilled in data preprocessing, feature engineering, exploratory data analysis (EDA), data visualization, hyperparameter tuning, optimization techniques, and model evaluation; solid foundation in mathematics and statistics.
+- **Data Science & Analytics:** Skilled in data preprocessing, feature engineering, exploratory data analysis (EDA), data visualization, hyperparameter tuning, optimization techniques, and model evaluation; solid foundation in mathematics and statistics.
 - **Programming & Libraries:** Strong Python skills with experience using NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, spaCy, NLTK, Hugging Face, and Transformers.
 - **Cloud & Tools:** Experience with AWS, SQL, Git, GitHub, Jupyter Notebook, Kaggle, Google Colab, VS Code, and cloud computing; basic web development knowledge in HTML, CSS, and JavaScript.
 - **Mechanical Engineering & CAD:** Proficient in mechanical engineering, design, and 2D/3D CAD using AutoCAD and SolidWorks.
@@ -273,12 +274,12 @@ RAG (Retrieval-Augmented Generation)
 ## <span class="animated-text">**Licenses & Certifications:**</span>
 
 - Certificate for Registered Engineers - 2018
+- Professional Mechanical Design, Solidworks - 2023
 - AI Qualification Certificate by the Japan Deep Learning Association (JDLA), Certified by exam, with 94% - 2025
 - Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan, Certified by Exam with 92% - 2025
-- Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by “Di-Lite” Japan -2025
-- Generative AI Literacy Assessment Competition, GUGA, Japan, Top Ranked out of 2,221 (Certified by Exam)
+- Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by “Di-Lite” Japan - 2025
+- Generative AI Literacy Assessment Competition, GUGA, Japan, Top Ranked out of 2,221 (Certified by Exam) - 2025
 - Generative AI Qualification Certificate by the Japan Deep Learning Association (JDLA) - 2025
-- Professional Mechanical Design, Solidworks -2023
   
 *** 
 
