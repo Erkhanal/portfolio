@@ -27,7 +27,22 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
 
 - **Master’s Degree in Engineering, USA**
-    - **Curriculum included:** • Mathematical and Computational Modeling • Machine Learning  • Deep Learning • Stochastic Modeling • Derivative Pricing • Econometrics  • Portfolio Management  • Organization and Project Management • Risk Management <!-- • Marketing, Finance, Accounting, and Human resources (HR)  • Master Thesis -->• Master’s Project Report
+
+<details>
+<summary><strong>View Curriculum</strong></summary>
+
+- Mathematical and Computational Modeling  
+- Machine Learning  
+- Deep Learning  
+- Stochastic Modeling  
+- Derivative Pricing  
+- Econometrics  
+- Portfolio Management  
+- Organization and Project Management  
+- Risk Management  
+- Master’s Project Report  
+
+</details>
       
 - **Master’s Degree in Artificial Intelligence (AI), UK**
   - **Curriculum included:** • Mathematics and Statistics • Machine Learning  • Deep Learning   • Computer Vision  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
