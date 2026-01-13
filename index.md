@@ -27,32 +27,37 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
 
 - **Master’s Degree in Engineering, USA**
-
     <details>
-    <summary><strong>View Curriculum</strong></summary>
+    <summary>View Curriculum</summary>
     
-    - Mathematical and Computational Modeling  
-    - Machine Learning  
-    - Deep Learning  
-    - Stochastic Modeling  
-    - Derivative Pricing  
-    - Econometrics  
-    - Portfolio Management  
-    - Organization and Project Management  
-    - Risk Management  
-    - Master’s Project Report  
+    • Mathematical and Computational Modeling • Machine Learning • Deep Learning • Stochastic Modeling • Derivative Pricing • Econometrics • Portfolio Management • Organization and Project Management • Risk Management • Master’s Project Report
     
     </details>
-      
+    
 - **Master’s Degree in Artificial Intelligence (AI), UK**
-  - **Curriculum included:** • Mathematics and Statistics • Machine Learning  • Deep Learning   • Computer Vision  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
+    <details>
+    <summary>View Curriculum</summary>
       
-- **Executive Post Graduate in ML/AI, (Generative AI Specialization)**
-  - **Curriculum included:** • Python Programming  • Statistics and Probability  • Data Visualisation and Analysis • Machine Learning  • Deep Learning  <!--• Computer Vision--> • Natural Language Processing (NLP)  • Generative AI  • Large Language Model (LLM) • Capstone Project 
+    • Mathematics and Statistics • Machine Learning  • Deep Learning   • Computer Vision  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
+  
+    </details>
+    
+- **Executive Post Graduate Degree in ML/AI, (Generative AI Specialization)**
+    <details>
+    <summary>View Curriculum</summary>
+      
+    • Python Programming  • Statistics and Probability  • Data Visualisation and Analysis • Machine Learning  • Deep Learning  <!--• Computer Vision--> • Natural Language Processing (NLP)  • Generative AI  • Large Language Model (LLM) • Capstone Project
+  
+    </details>
  
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
-  - **Curriculum included:** • Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • Engineering Drawing and CAD  • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Engineering Physics • Engineering Chemistry • Engineering Economics • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Engineering and Management • Engineering Professional Ethics • Project Report    
 
+    <details>
+    <summary>View Curriculum</summary>
+      
+    • Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • Engineering Drawing and CAD  • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Engineering Physics • Engineering Chemistry • Engineering Economics • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Engineering and Management • Engineering Professional Ethics • Project Report    
+
+    </details>
 ***
 
 ## <span class="animated-text">**Selective Skills:**</span>
