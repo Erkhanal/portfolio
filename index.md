@@ -46,13 +46,35 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 ***
 
+## <span class="animated-text">**Selective Skills:**</span>
+
+- **Research & Analysis:** Experience in reading, analyzing, and writing research papers, gathering information, and reviewing publications.
+- **AI & Machine Learning:** Proficient in AI, machine learning, and deep learning algorithms, including regression analysis, classification, clustering, and neural networks.
+- **NLP & Generative AI:** Knowledge and hands-on experience with NLP, generative AI, LLMs, RAG, OpenAI, ChatGPT API, DeepSeek, BERT, Gemini, Hugging Face, Transformers, LlamaIndex, and LangChain.
+- Data Science & Analytics: Skilled in data preprocessing, feature engineering, exploratory data analysis (EDA), data visualization, hyperparameter tuning, optimization techniques, and model evaluation; solid foundation in mathematics and statistics.
+- **Programming & Libraries:** Strong Python skills with experience using NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, spaCy, NLTK, Hugging Face, and Transformers.
+- **Cloud & Tools:** Experience with AWS, SQL, Git, GitHub, Jupyter Notebook, Kaggle, Google Colab, VS Code, and cloud computing; basic web development knowledge in HTML, CSS, and JavaScript.
+- **Mechanical Engineering & CAD:** Proficient in mechanical engineering, design, and 2D/3D CAD using AutoCAD and SolidWorks.
+- **Documentation & Project Skills:** Skilled in technical report writing, editing, document creation, and time management.
+- **Soft Skills & Leadership:** Strong learning ability, independence, leadership, and critical thinking skills.
+- **Office Tools:** Proficient in Microsoft Word, Excel, and PowerPoint.
+  
+***  
+
+## <span class="animated-text">**Languages skills:**</span>
+
+- English: Business Level Proficiency (TOEIC Certified)
+- Japanese: Business Level Proficiency (JLPT-N2 Certified)
+- Hindi: Intermediate Level Proficiency
+- Nepali: Native or bilingual proficiency
+
+***
+
 ## <span class="animated-text">**Work Experience:**</span>
 
 - AI Engineer at Tokyo, Japan-(2020 to present)
 - Mechanical Engineer at Tata Motors-(2018 to 2019)
 - Internship Engineer at Pepsi-2017
-  
-***  
 
 <!--
 ## <span class="animated-text">**AI-Related Technical Knowledge:**</span>
@@ -245,13 +267,6 @@ RAG (Retrieval-Augmented Generation)
 
 ***
 -->
-
-## <span class="animated-text">**Languages skills:**</span>
-
-- English: Business Level Proficiency (TOEIC Certified)
-- Japanese: Business Level Proficiency (JLPT-N2 Certified)
-- Hindi: Intermediate Level Proficiency
-- Nepali: Native or bilingual proficiency
   
 ***  
 
@@ -262,7 +277,7 @@ RAG (Retrieval-Augmented Generation)
 - Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan, Certified by Exam with 92%
 - Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by "Di-Lite" Japan
 - Generative AI Qualification Certificate (JDLA, Certified by Exam)
-- Generative AI Literacy Assessment Competition, GUGA, Japan, Top Ranked (Certified by Exam)
+- Generative AI Literacy Assessment Competition, GUGA, Japan, Top Ranked out of 2,221 (Certified by Exam)
 - Professional Mechanical Design (SolidWorks, Certified by Exam)
 - The Deep Learning Specialization, DeepLearning.AI 
 - Crash Course on Python, Google 
