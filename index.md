@@ -28,9 +28,8 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 - **Master’s Degree in Engineering, USA**
     <details>
-    <summary><em>View Curriculum</em></summary>
+    <summary>View Curriculum</summary>
     • Mathematical and Computational Modeling • Machine Learning • Deep Learning • Stochastic Modeling • Derivative Pricing • Econometrics • Portfolio Management • Organization and Project Management • Risk Management • Master’s Project Report
-      <br>
     </details>
 
 - **Master’s Degree in Artificial Intelligence (AI), UK**
@@ -39,7 +38,7 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
     • Mathematics and Statistics • Machine Learning  • Deep Learning   • Computer Vision  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
     </details>
 
-- **Executive Postgraduate Degree with Generative AI Specialization**
+- **Executive Postgraduate with Gen AI Specialization**
     <details>
     <summary><em>View Curriculum</em></summary>
     • Python Programming  • Statistics and Probability  • Data Visualisation and Analysis • Machine Learning  • Deep Learning  <!--• Computer Vision--> • Natural Language Processing (NLP)  • Generative AI  • Large Language Model (LLM) • Capstone Project
