@@ -125,6 +125,17 @@ Developed an intelligent deep learning–based system for automated breast cance
 
 ***
 
+### **AI-Based COVID-19 Detection System from Chest X-Ray Images:**
+Developed an AI–based diagnostic system for automated COVID-19 detection using chest X-ray images, implemented with PyTorch. The system leverages a pretrained ResNet-18 convolutional neural network to classify X-ray images into three categories: Normal, Viral Pneumonia, and COVID-19. Advanced image preprocessing techniques-including resizing, normalization, and data augmentation were applied to enhance model generalization and robustness. The architecture utilizes residual learning for effective feature extraction, with a customized fully connected layer for multi-class classification. Model training employed Cross-Entropy loss and the Adam optimizer, with performance evaluated using accuracy and loss metrics. Visual analytics were integrated to display true versus predicted labels, enabling qualitative performance assessment. This AI-driven solution improves diagnostic efficiency, reduces manual interpretation errors, and supports medical professionals in rapid and reliable COVID-19 screening and clinical decision-making.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/COV.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
 ### **Gen AI Project: Generative Search System (Mr.HelpMate AI):**
 Architecting a sophisticated Generative Search System named Mr.HelpMate AI, utilizing advanced Retrieval-Augmented Generation (RAG) techniques and state-of-the-art Hugging Face models. This project integrates cutting-edge frameworks such as LangChain and LlamaIndex to enhance the search experience through dynamic and contextually relevant responses. By combining powerful generative models with retrieval mechanisms, Mr.HelpMate AI aims to provide highly accurate and context-aware search results, enabling users to efficiently find and interact with information across diverse domains. This system leverages the latest advancements in AI to deliver intelligent and responsive search capabilities, transforming how users engage with digital content.
 
