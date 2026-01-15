@@ -114,6 +114,17 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
+### **Intelligent AI System for Breast Cancer Detection:**
+Developed an intelligent deep learning–based system for automated breast cancer detection using whole slide histopathology images (WSIs) from the PCam Kaggle dataset. Implemented a hybrid CNN–GRU architecture to accurately detect and classify invasive ductal carcinoma (IDC) as positive or negative. The model combines convolutional layers for spatial feature extraction with GRU layers for sequential pattern learning, improving diagnostic reliability. Performance was evaluated using standard medical metrics including accuracy, precision, sensitivity, specificity, F1-score, and AUC, achieving strong predictive results and outperforming traditional CNN-LSTM, CNN-BiLSTM, and other ML/DL models. The system reduces manual diagnostic effort, minimizes misclassification risk, and supports early and accurate breast cancer detection.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/BC.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
 ### **Gen AI Project: Generative Search System (Mr.HelpMate AI):**
 Architecting a sophisticated Generative Search System named Mr.HelpMate AI, utilizing advanced Retrieval-Augmented Generation (RAG) techniques and state-of-the-art Hugging Face models. This project integrates cutting-edge frameworks such as LangChain and LlamaIndex to enhance the search experience through dynamic and contextually relevant responses. By combining powerful generative models with retrieval mechanisms, Mr.HelpMate AI aims to provide highly accurate and context-aware search results, enabling users to efficiently find and interact with information across diverse domains. This system leverages the latest advancements in AI to deliver intelligent and responsive search capabilities, transforming how users engage with digital content.
 
