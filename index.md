@@ -114,6 +114,8 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
+**Note:** All datasets used in these AI projects are sourced from verified and legal platforms, such as Kaggle, open-source repositories, and university databases, to ensure reliability and authenticity.
+
 ### **Intelligent AI System for Breast Cancer Detection:**
 Developed an intelligent deep learning–based system for automated breast cancer detection using whole slide histopathology images (WSIs) from the PCam Kaggle dataset. Implemented a hybrid CNN–GRU architecture to accurately detect and classify invasive ductal carcinoma (IDC) as positive or negative. The model combines convolutional layers for spatial feature extraction with GRU layers for sequential pattern learning, improving diagnostic reliability. Performance was evaluated using standard medical metrics including accuracy, precision, sensitivity, specificity, F1-score, and AUC, achieving strong predictive results and outperforming traditional CNN-LSTM, CNN-BiLSTM, and other ML/DL models. The system reduces manual diagnostic effort, minimizes misclassification risk, and supports early and accurate breast cancer detection.
 
