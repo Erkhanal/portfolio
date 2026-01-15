@@ -114,8 +114,6 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
-**Note:** All datasets used in these AI projects are sourced from verified and legal platforms, such as Kaggle, open-source repositories, and university databases, to ensure reliability and authenticity.
-
 ### **Intelligent AI System for Breast Cancer Detection:**
 Developed an intelligent deep learning–based system for automated breast cancer detection using whole slide histopathology images (WSIs) from the PCam Kaggle dataset. Implemented a hybrid CNN–GRU architecture to accurately detect and classify invasive ductal carcinoma (IDC) as positive or negative. The model combines convolutional layers for spatial feature extraction with GRU layers for sequential pattern learning, improving diagnostic reliability. Performance was evaluated using standard medical metrics including accuracy, precision, sensitivity, specificity, F1-score, and AUC, achieving strong predictive results and outperforming traditional CNN-LSTM, CNN-BiLSTM, and other ML/DL models. The system reduces manual diagnostic effort, minimizes misclassification risk, and supports early and accurate breast cancer detection.
 
@@ -269,7 +267,7 @@ Developed an AI-based credit card fraud detection system using machine learning 
 
 ***
 
-### **Eye for the Blind:**
+### **AI-Eye for the Blind:**
 Developed an AI-powered assistive technology, "Eye for the Blind," designed to help visually impaired individuals by recognizing and describing their surroundings in real-time. Leveraged deep learning techniques, including object detection models like YOLOv5, and natural language processing (NLP) for converting visual data into spoken descriptions. The system integrates a camera to capture images, processes them with the trained model, and provides auditory feedback via speech synthesis.
 
 ***
@@ -290,6 +288,8 @@ Developed a machine learning model to predict heart failure based on key clinica
 </div>
 
 ***
+
+**Note:** All datasets used in these AI projects are sourced from verified and legal platforms, such as Kaggle, open-source repositories, and university databases, to ensure reliability and authenticity.
 
 ## <span class="animated-text">**Mechanical Research Projects:**</span>
 
