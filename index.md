@@ -131,7 +131,7 @@ Developed an AI–based diagnostic system for automated COVID-19 detection using
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/COV.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/covi.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
