@@ -38,13 +38,13 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
     • Mathematics and Statistics • Machine Learning  • Deep Learning   • Computer Vision  • Natural Language Processing (NLP)   • MLops • Reinforcement Learning • Generative AI • Master Thesis
     </details>
 
-- **Executive Postgraduate with Gen AI Specialization**
+- **Executive Postgraduate Degree with Gen AI Specialization**
     <details>
     <summary>View Curriculum</summary>
     • Python Programming  • Statistics and Probability  • Data Visualisation and Analysis • Machine Learning  • Deep Learning  <!--• Computer Vision--> • Natural Language Processing (NLP)  • Generative AI  • Large Language Model (LLM) • Capstone Project
     </details>
 
-- **Bachelor’s Degree in Mechanical Engineering, Nepal**
+- **Bachelor’s Degree in Mechanical Engineering**
     <details>
     <summary>View Curriculum</summary>
     • Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • Engineering Drawing and CAD  • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Engineering Physics • Engineering Chemistry • Engineering Economics • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Engineering and Management • Engineering Professional Ethics • Project Report    
@@ -64,15 +64,6 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 - **Documentation & Project Skills:** Skilled in technical report writing, editing, document creation, and time management.
 - **Soft Skills & Leadership:** Strong learning ability, independence, leadership, and critical thinking skills.
 - **Office Tools:** Proficient in Microsoft Word, Excel, and PowerPoint.
-  
-***  
-
-## <span class="animated-text">**Languages skills:**</span>
-
-- English: Business Level Proficiency (TOEIC Certified)
-- Japanese: Business Level Proficiency (JLPT-N2 Certified)
-- Hindi: Intermediate Level Proficiency
-- Nepali: Native or bilingual proficiency
 
 ***
 
@@ -86,13 +77,15 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 ## <span class="animated-text">**Licenses & Certifications:**</span>
 
-- Certificate for Registered Engineers - 2018
-- Professional Mechanical Design, Solidworks, Certified by exam - 2023
-- AI Qualification Certificate by the Japan Deep Learning Association (JDLA), Certified by exam, with 94% - 2025
-- Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan, Certified by Exam with 92% - 2025
-- Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by “Di-Lite” Japan, Certified by exam - 2025
-- Generative AI Literacy Assessment Competition, GUGA, Japan, Top Ranked out of 2,221, Certified by Exam - 2025
-- Generative AI Qualification Certificate by the Japan Deep Learning Association (JDLA), Certified by exam - 2025
+- Certificate for Registered Engineers 
+- English Language: Business Level Proficiency (TOEIC, ETS, Certified by Exam) 
+- Japanese Language: Business Level Proficiency (JLPT-N2, Certified by Exam) 
+- Professional Mechanical Design, Solidworks, Certified by exam 
+- AI Qualification Certificate by the Japan Deep Learning Association (JDLA), Certified by exam, with 94% 
+- Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan, Certified by Exam with 92% 
+- Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by “Di-Lite” Japan, Certified by exam 
+- Generative AI Literacy Assessment Competition, GUGA, Japan, Top Ranked out of 2,221, Certified by Exam 
+- Generative AI Qualification Certificate by the Japan Deep Learning Association (JDLA), Certified by exam 
   
 *** 
 
