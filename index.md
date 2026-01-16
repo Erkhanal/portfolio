@@ -87,12 +87,12 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 ## <span class="animated-text">**Licenses & Certifications:**</span>
 
 - Certificate for Registered Engineers - 2018
-- Professional Mechanical Design, Solidworks - 2023
+- Professional Mechanical Design, Solidworks, Certified by exam - 2023
 - AI Qualification Certificate by the Japan Deep Learning Association (JDLA), Certified by exam, with 94% - 2025
 - Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan, Certified by Exam with 92% - 2025
-- Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by “Di-Lite” Japan - 2025
-- Generative AI Literacy Assessment Competition, GUGA, Japan, Top Ranked out of 2,221 (Certified by Exam) - 2025
-- Generative AI Qualification Certificate by the Japan Deep Learning Association (JDLA) - 2025
+- Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by “Di-Lite” Japan, Certified by exam - 2025
+- Generative AI Literacy Assessment Competition, GUGA, Japan, Top Ranked out of 2,221, Certified by Exam - 2025
+- Generative AI Qualification Certificate by the Japan Deep Learning Association (JDLA), Certified by exam - 2025
   
 *** 
 
