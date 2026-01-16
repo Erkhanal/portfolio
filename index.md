@@ -120,7 +120,7 @@ Developed an intelligent deep learning–based system for automated breast cance
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/BC.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/BCD.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
