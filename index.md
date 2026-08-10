@@ -85,7 +85,10 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 - Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan, Certified by Exam with 92%
 - Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by “Di-Lite” Japan, Certified by exam 
 - Generative AI Literacy Assessment Competition, GUGA, Japan, Top Ranked out of 2,221, Certified by Exam 
-- Generative AI Qualification Certificate by the Japan Deep Learning Association (JDLA), Certified by exam 
+- Generative AI Qualification Certificate by the Japan Deep Learning Association (JDLA), Certified by exam
+- DX Professional Level Certified (DSS-Based, METI & IPA Framework, DX Examination, Japan, Certified by Exam (Score 975/1,000) ✅)
+- Advanced Level Data Science Mathematics Strategist Certified with Triple Star ⭐⭐⭐ (The Mathematics Certification Institute of Japan, Certified by Exam ✅ 95%)
+- Highest Achievement in AI Skills Certifications with Full Crowns (Japan AI Skill Certification Association, Certified by Exam ✅) 
   
 *** 
 
