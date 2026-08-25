@@ -88,6 +88,10 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 - DX Professional Level Certified, DSS-Based, METI & IPA Framework, DX Examination, Japan, Certified by Exam with Score 975/1,000
 - Advanced Level Data Science Mathematics Strategist Certified with Triple Star by The Mathematics Certification Institute of Japan, Certified by Exam 95%
 - Highest Achievement in AI Skills Certifications with Full Crowns by Japan AI Skill Certification Association, Certified by Exam
+- Oracle Cloud Infrastructure Certified Architect by Oracle, Certified by Exam 
+- Agentic AI Certified Associate by Oracle, Certified by Exam
+- Oracle Cloud Infrastructure Certified Foundations Associate by Oracle, Certified by Exam
+- Oracle AI Database Certified Associate by Oracle, Certified by Exam
 - Professional Mechanical Design, Solidworks, Certified by exam
   
 *** 
