@@ -92,6 +92,9 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 - Agentic AI Certified Associate by Oracle, Certified by Exam
 - Oracle Cloud Infrastructure Certified Foundations Associate by Oracle, Certified by Exam
 - Oracle AI Database Certified Associate by Oracle, Certified by Exam
+- Oracle Cloud Infrastructure Certified AI Associate by Oracle, Certified by Exam
+- Oracle Fusion AI Agent Studio Certified Associate by Oracle, Certified by Exam
+- Oracle Data Center Operations Certified Associate by Oracle, Certified by Exam
 - Professional Mechanical Design, Solidworks, Certified by exam
   
 *** 
