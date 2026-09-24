@@ -101,32 +101,33 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 ## <span class="animated-text">**Professional Certificates:**</span>
 
-- The Microsoft AI & ML Engineering Professional Certificate, Microsoft
-- The AWS Cloud Solutions Architect Professional Certificate, Amazon Web Services
-- The Google Data Analytics Professional Certificate, Google
-- The Google Project Management Professional Certificate, Google
-- The IBM AI Developer Professional Certificate, IBM
-- The IBM Gen AI Engineering Professional Certificate, IBM
-- The AWS Generative AI Developer Advanced Professional Certificate, Amazon Web Services
-- The Google AI Professional Certificate, Google
-- The IBM RAG and Agentic AI Professional Certificate, IBM
-- The Generative AI Leader Professional Certificate, Google Cloud
-- The Google AI Essentials Specialization, Google
-- The AI Infrastructure: Deployment, Networking, and Storage Specialization, Google Cloud
-- The Deep Learning Specialization, DeepLearning.AI
-- The Microsoft AI Product Manager Professional Certificate, Microsoft
-- The Research Specialization, Queen Mary University of London
-- The Microsoft Leadership and Innovation Professional Certificate, Microsoft
+- Microsoft AI & ML Engineering Professional Certificate, Microsoft
+- AWS Cloud Solutions Architect Professional Certificate, Amazon Web Services
+- Google Data Analytics Professional Certificate, Google
+- Google Project Management Professional Certificate, Google
+- IBM AI Developer Professional Certificate, IBM
+- IBM Gen AI Engineering Professional Certificate, IBM
+- AWS Generative AI Developer Advanced Professional Certificate, Amazon Web Services
+- Google AI Professional Certificate, Google
+- IBM RAG and Agentic AI Professional Certificate, IBM
+- Generative AI Leader Professional Certificate, Google Cloud
+- Google AI Essentials Specialization, Google
+- AI Infrastructure: Deployment, Networking, and Storage Specialization, Google Cloud
+- Deep Learning Specialization, DeepLearning.AI
+- Microsoft AI Product Manager Professional Certificate, Microsoft
+- Research Specialization, Queen Mary University of London
+- Microsoft Leadership and Innovation Professional Certificate, Microsoft
 
 ***
 
 ## <span class="animated-text">**Skill Development Courses:**</span>
 
-- Responsible AI and Risk Management, IBM SkillsBuild
+- Responsible AI and Risk Management, IBM
 - Data Science Essentials With Python, Cisco
 - Python Essentials, Cisco
 - The Python for Data Science and AI, IBM
 - Python Project for AI and Application Development, IBM
+- Process Data from Dirty to Clean, Google
 - PMI® Essentials: Seven AI Project Patterns, Project Management Institute
 - PMI Essentials M.O.R.E. Maximizing Project Success, Project Management Institute
 - Generative AI Overview for Project Managers, Project Management Institute
@@ -146,7 +147,6 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 - Ethical Hacker, Cisco
 - Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
 - Crash Course on Python, Google
-- Process Data from Dirty to Clean, Google
 - Programming for Everybody (Getting Started with Python), University of Michigan
 - The Smithsonian Entrepreneur Incubator Course, US Embassy
 - Engineering and Product Design Processes, Arizona State University
