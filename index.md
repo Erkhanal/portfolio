@@ -99,19 +99,58 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
   
 *** 
 
+## <span class="animated-text">**Professional Certificates:**</span>
+
+- The Microsoft AI & ML Engineering Professional Certificate, Microsoft
+- The AWS Cloud Solutions Architect Professional Certificate, Amazon Web Services
+- The Google Data Analytics Professional Certificate, Google
+- The Google Project Management Professional Certificate, Google
+- The IBM AI Developer Professional Certificate, IBM
+- The IBM Gen AI Engineering Professional Certificate, IBM
+- The AWS Generative AI Developer Advanced Professional Certificate, Amazon Web Services
+- The Google AI Professional Certificate, Google
+- The IBM RAG and Agentic AI Professional Certificate, IBM
+- The Generative AI Leader Professional Certificate, Google Cloud
+- The Google AI Essentials Specialization, Google
+- The AI Infrastructure: Deployment, Networking, and Storage Specialization, Google Cloud
+- The Deep Learning Specialization, DeepLearning.AI
+- The Microsoft AI Product Manager Professional Certificate, Microsoft
+- The Research Specialization, Queen Mary University of London
+- The Microsoft Leadership and Innovation Professional Certificate, Microsoft
+
+***
+
 ## <span class="animated-text">**Skill Development Courses:**</span>
 
-- The Deep Learning Specialization, DeepLearning.AI 
-- Crash Course on Python, Google 
+- Responsible AI and Risk Management, IBM SkillsBuild
+- Data Science Essentials With Python, Cisco
+- Python Essentials, Cisco
+- The Python for Data Science and AI, IBM
+- Python Project for AI and Application Development, IBM
+- PMI® Essentials: Seven AI Project Patterns, Project Management Institute
+- PMI Essentials M.O.R.E. Maximizing Project Success, Project Management Institute
+- Generative AI Overview for Project Managers, Project Management Institute
+- Practical Application of Gen AI for Project Managers, Project Management Institute
+- Talking to AI: Prompt Engineering for Project Managers, Project Management Institute
+- Claude with Amazon Bedrock, Anthropic
+- Introduction to Model Context Protocol, Anthropic
+- Claude Code in Action, Anthropic
+- Building with the Claude API, Anthropic
+- Model Context Protocol: Advanced Topics, Anthropic
+- AI Fluency: Framework and Foundations, Anthropic
+- Generative AI Fundamentals, Databricks
+- AI Agent Fundamentals, Databricks
+- English for IT, Cisco
+- Introduction to Modern AI, Cisco
+- Cisco AI Business Practitioner, Cisco
+- Ethical Hacker, Cisco
 - Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
-- Neural Networks and Deep Learning, DeepLearning.AI
-- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, DeepLearning.AI
-- Convolutional Neural Networks, DeepLearning.AI
-- Sequence Models, DeepLearning.AI
-- Introduction to Artificial Intelligence (AI), IBM
-- Programming for Everybody (Getting Started with Python), University of Michigan 
+- Crash Course on Python, Google
+- Process Data from Dirty to Clean, Google
+- Programming for Everybody (Getting Started with Python), University of Michigan
 - The Smithsonian Entrepreneur Incubator Course, US Embassy
 - Engineering and Product Design Processes, Arizona State University
+- How to Write and Publish a Scientific Paper (Project-Centered Course), École Polytechnique University
   
 ***
 
