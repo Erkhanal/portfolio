@@ -55,6 +55,8 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 ## <span class="animated-text">**Selective Skills:**</span>
 
 - **Research & Analysis:** Experience in reading, analyzing, and writing research papers, gathering information, and reviewing publications.
+- **Software Development:** Life Cycle (SDLC): Experience in the complete software development life cycle, including requirement analysis, planning, system design, development, implementation, testing, evaluation, deployment, monitoring, maintenance, troubleshooting, performance optimization, quality assurance, and continuous improvement.
+- **Technology Leadership & Delivery:** Skills in technology strategy, system integration, security, technical documentation, project coordination, risk assessment, quality assurance, and knowledge sharing.
 - **AI & Machine Learning:** Proficient in AI, machine learning, and deep learning algorithms, including regression analysis, classification, clustering, and neural networks.
 - **NLP & Generative AI:** Knowledge and hands-on experience with NLP, generative AI, LLMs, RAG, OpenAI, ChatGPT API, DeepSeek, BERT, Gemini, Hugging Face, Transformers, LlamaIndex, and LangChain.
 - **Data Science & Analytics:** Skilled in data preprocessing, feature engineering, exploratory data analysis (EDA), data visualization, hyperparameter tuning, optimization techniques, and model evaluation; solid foundation in mathematics and statistics.
@@ -69,7 +71,7 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 ## <span class="animated-text">**Work Experience:**</span>
 
-- AI Engineer at Tokyo, Japan - (2020 to present)
+- Senior AI Engineer at Tokyo, Japan - (2020 to present)
 - Mechanical Engineer at Tata Motors - (2018 to 2019)
 - Internship Engineer at Pepsi-2017
   
@@ -77,25 +79,35 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 ## <span class="animated-text">**Licenses & Certifications:**</span>
 
-- Certificate for Registered Engineers 
-- English Language: Business Level Proficiency (TOEIC, ETS, Certified) 
-- Japanese Language: Business Level Proficiency (JLPT-N2, Certified) 
-- AI Qualification Certificate by Japan Deep Learning Association (JDLA), Certified by exam, with 94%
-- Generative AI Passport by Generative AI Utilization Promotion Association (GUGA), Japan, Certified by Exam with 92%
-- Japan Ministry of Economy, Trade and Industry Observer - DX Promotion Passport1 (AI) by “Di-Lite” Japan, Certified by exam 
-- Generative AI Literacy Assessment Competition, GUGA, Japan, Top Ranked out of 2,221, Certified by Exam 
-- Generative AI Qualification Certificate by the Japan Deep Learning Association (JDLA), Certified by exam
-- DX Professional Level Certified, DSS-Based, METI & IPA Framework, DX Examination, Japan, Certified by Exam with Score 975/1,000
-- Advanced Level Data Science Mathematics Strategist Certified with Triple Star by The Mathematics Certification Institute of Japan, Certified by Exam 95%
-- Highest Achievement in AI Skills Certifications with Full Crowns by Japan AI Skill Certification Association, Certified by Exam
-- Oracle Cloud Infrastructure Certified Architect by Oracle, Certified by Exam 
-- Agentic AI Certified Associate by Oracle, Certified by Exam
-- Oracle Cloud Infrastructure Certified Foundations Associate by Oracle, Certified by Exam
-- Oracle AI Database Certified Associate by Oracle, Certified by Exam
-- Oracle Cloud Infrastructure Certified AI Associate by Oracle, Certified by Exam
-- Oracle Fusion AI Agent Studio Certified Associate by Oracle, Certified by Exam
-- Oracle Data Center Operations Certified Associate by Oracle, Certified by Exam
-- Professional Mechanical Design, Solidworks, Certified by exam
+- Certificate for Registered Engineers
+- AI Engineer Qualification Certificate by Japan Deep Learning Association (JDLA), Certified by exam
+- 15+ Professional Certificates across Engineering, AI, ML, Cloud, and Data from world-leading providers including Microsoft, AWS, Google, IBM, DeepLearning.AI, and more.
+- AI Engineer Qualification Certificate, Japan Deep Learning Association, Certified by Exam
+- DX Qualification Certificate, Digital Literacy Council, Di-Lite, Japan, Certified by Exam
+- Generative AI Literacy Assessment Competition By GUGA, Japan: Top Ranked out of 2,221, Certified by Exam
+- Oracle Cloud Infrastructure Certified Architect, Oracle, Certified by Exam
+- Oracle Cloud Infrastructure Certified AI Foundations Associate, Oracle, Certified by Exam
+- Agentic AI Certified Associate, Oracle, Certified by Exam
+- Oracle Cloud Infrastructure Certified Associate, Oracle, Certified by Exam
+- Oracle Data Center Operations Certified Associate, Oracle, Certified by Exam
+- Oracle AI Database Certified Associate, Oracle, Certified by Exam
+- Oracle Fusion AI Agent Studio Certified Associate, Oracle, Certified by Exam
+- Generative AI Qualification Certificate, Japan Deep Learning Association, Certified by Exam
+- Generative AI Passport Exam, GUGA, Japan, Certified by Exam
+- DX Professional Level Certified (DSS-Based, METI & IPA Framework, DX Next Examination, Japan, Certified by Exam (Top Performer with Score 975/1,000))
+- Advanced Level Data Science Mathematics Strategist Certified with Triple Star, The Mathematics Certification Institute of Japan, Certified by Exam
+- Highest Achievement in AI Skills Certifications with Full Crowns, Japan AI Skill Certification Association, Certified by Exam
+- 5+ Google Certifications in Education, Analytics, Data, and AI, Google, Certified by Exam
+- Develop a Generative AI Chat App Using the Microsoft Foundry SDK, Microsoft, Certified by Exam
+- Accelerate AI-assisted development by using GitHub Copilot, Microsoft, Certified by Exam
+- Develop an agent with integrated tools, Microsoft, Certified by Exam
+- Integrate model context protocol tools with agents in Microsoft Foundry, Microsoft, Certified by Exam
+- Developing agents in Microsoft Foundry, Microsoft, Certified by Exam
+- Resolve GitHub issues by using GitHub Copilot, Microsoft, Certified by Exam
+- Generate reports with AI research agents, Microsoft, Certified by Exam
+- Professional Mechanical Design, SolidWorks, Certified by Exam
+- English: Business Level Proficiency, TOEIC, ETS, Certified by Exam
+- Japanese: Business Level Proficiency, JLPT-N2, Certified by Exam
   
 *** 
 
@@ -103,11 +115,14 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 
 - Microsoft AI & ML Engineering Professional Certificate, Microsoft
 - AWS Cloud Solutions Architect Professional Certificate, Amazon Web Services
-- Google Data Analytics Professional Certificate, Google
+- Google Advance Data Analytics Professional Certificate, Google
 - Google Project Management Professional Certificate, Google
+- Microsoft AI Transformation Leader Professional Certificate, Microsoft
+- Microsoft AI Product Manager Professional Certificate, Microsoft
 - IBM AI Developer Professional Certificate, IBM
 - IBM Gen AI Engineering Professional Certificate, IBM
 - AWS Generative AI Developer Advanced Professional Certificate, Amazon Web Services
+- Microsoft Generative AI Engineering Professional Certificate, Microsoft
 - Google AI Professional Certificate, Google
 - IBM RAG and Agentic AI Professional Certificate, IBM
 - Generative AI Leader Professional Certificate, Google Cloud
