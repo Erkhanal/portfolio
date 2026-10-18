@@ -55,7 +55,7 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 ## <span class="animated-text">**Selective Skills:**</span>
 
 - **Research & Analysis:** Experience in reading, analyzing, and writing research papers, gathering information, and reviewing publications.
-- **Software Development:** Life Cycle (SDLC): Experience in the complete software development life cycle, including requirement analysis, planning, system design, development, implementation, testing, evaluation, deployment, monitoring, maintenance, troubleshooting, performance optimization, quality assurance, and continuous improvement.
+- **Software Development Life Cycle (SDLC):** Experience in the complete software development life cycle, including requirement analysis, planning, system design, development, implementation, testing, evaluation, deployment, monitoring, maintenance, troubleshooting, performance optimization, quality assurance, and continuous improvement.
 - **Technology Leadership & Delivery:** Skills in technology strategy, system integration, security, technical documentation, project coordination, risk assessment, quality assurance, and knowledge sharing.
 - **AI & Machine Learning:** Proficient in AI, machine learning, and deep learning algorithms, including regression analysis, classification, clustering, and neural networks.
 - **NLP & Generative AI:** Knowledge and hands-on experience with NLP, generative AI, LLMs, RAG, OpenAI, ChatGPT API, DeepSeek, BERT, Gemini, Hugging Face, Transformers, LlamaIndex, and LangChain.
