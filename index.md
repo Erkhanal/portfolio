@@ -98,6 +98,7 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 - Advanced Level Data Science Mathematics Strategist Certified with Triple Star, The Mathematics Certification Institute of Japan, Certified by Exam
 - Highest Achievement in AI Skills Certifications with Full Crowns, Japan AI Skill Certification Association, Certified by Exam
 - 5+ Google Certifications in Education, Analytics, Data, and AI, Google, Certified by Exam
+- 5+ Project Management Certification Exams in Agile, Scrum, Kanban, DevOps, Business Analysis, Six Sigma, and Process Improvement, Certified by Exam
 - Develop a Generative AI Chat App Using the Microsoft Foundry SDK, Microsoft, Certified by Exam
 - Accelerate AI-assisted development by using GitHub Copilot, Microsoft, Certified by Exam
 - Develop an agent with integrated tools, Microsoft, Certified by Exam
