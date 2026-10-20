@@ -55,17 +55,17 @@ An interdisciplinary engineer with a solid foundation in engineering, artificial
 ## <span class="animated-text">**Selective Skills:**</span>
 
 - **Research & Analysis:** Experience in reading, analyzing, and writing research papers, gathering information, and reviewing publications.
-- **Software Development Life Cycle (SDLC):** Experience in the complete software development life cycle, including requirement analysis, planning, system design, development, implementation, testing, evaluation, deployment, monitoring, maintenance, troubleshooting, performance optimization, quality assurance, and continuous improvement.
-- **Technology Leadership & Delivery:** Skills in technology strategy, system integration, security, technical documentation, project coordination, risk assessment, quality assurance, and knowledge sharing.
+- **Software Development Life Cycle (SDLC):** Experience across the full SDLC, including requirements analysis, planning, system design, development, testing, implementation, deployment, monitoring, maintenance, troubleshooting, and performance optimization.
+- **Agile and Project Management:** Knowledge of Scrum, Agile, Waterfall, and Kanban methodologies, including sprint planning, backlog prioritization, project scheduling, milestone tracking, and delivery.
+- **Technology Leadership and Delivery:** Experience in technology strategy, team leadership, stakeholder communication, cross-functional collaboration, system integration, security, technical documentation, and knowledge sharing.
 - **AI & Machine Learning:** Proficient in AI, machine learning, and deep learning algorithms, including regression analysis, classification, clustering, and neural networks.
 - **NLP & Generative AI:** Knowledge and hands-on experience with NLP, generative AI, LLMs, RAG, OpenAI, ChatGPT API, DeepSeek, BERT, Gemini, Hugging Face, Transformers, LlamaIndex, and LangChain.
 - **Data Science & Analytics:** Skilled in data preprocessing, feature engineering, exploratory data analysis (EDA), data visualization, hyperparameter tuning, optimization techniques, and model evaluation; solid foundation in mathematics and statistics.
 - **Programming & Libraries:** Strong Python skills with experience using NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, spaCy, NLTK, Hugging Face, and Transformers.
 - **Cloud & Tools:** Experience with AWS, SQL, Git, GitHub, Jupyter Notebook, Kaggle, Google Colab, VS Code, and cloud computing; basic web development knowledge in HTML, CSS, and JavaScript.
 - **Mechanical Engineering & CAD:** Proficient in mechanical engineering, design, and 2D/3D CAD using AutoCAD and SolidWorks.
-- **Documentation & Project Skills:** Skilled in technical report writing, editing, document creation, and time management.
 - **Soft Skills & Leadership:** Strong learning ability, independence, leadership, and critical thinking skills.
-- **Office Tools:** Proficient in Microsoft Word, Excel, and PowerPoint.
+- **Technical Documentation and Office Tools:** Experience in technical report writing, editing, documentation, and time management, with proficiency in Microsoft Word, Excel, and PowerPoint.
 
 ***
 
